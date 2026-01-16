@@ -1,4 +1,4 @@
-# 🏆 Architecture du Projet ASSAD CAN 2025
+#  Architecture du Projet ASSAD CAN 2025
 
 **ASSAD** est une application intelligente de question-réponse (QA) dédiée à la **Coupe d’Afrique des Nations 2025 (CAN 2025)**. 
 
