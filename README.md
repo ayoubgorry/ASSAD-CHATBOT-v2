@@ -32,6 +32,11 @@ ASSAD se distingue par une séparation stratégique des flux d'informations pour
 * **Mises à jour ciblées :** Seul l'index dynamique est reconstruit fréquemment, économisant des ressources.
 * **Performance accrue :** Recherche sémantique optimisée par catégorie de données.
 * **Réduction des hallucinations :** Meilleur contrôle du contexte fourni au modèle de langage (LLM).
+---
+
+##  Architecture globale
+  
+
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
