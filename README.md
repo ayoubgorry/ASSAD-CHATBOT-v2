@@ -1,8 +1,37 @@
-# Architecture du Projet CAN 2025
+# 🏆 Architecture du Projet ASSAD CAN 2025
 
-## Vue d'ensemble
+**ASSAD** est une application intelligente de question-réponse (QA) dédiée à la **Coupe d’Afrique des Nations 2025 (CAN 2025)**. 
 
-Le projet ASSAD est une application de question-réponse sur la Coupe d'Afrique des Nations 2025, utilisant une architecture **Retrieval-Augmented Generation (RAG)** pour fournir des réponses précises basées sur les données de la compétition.
+Le projet repose sur une architecture **Retrieval-Augmented Generation (RAG)** avancée, conçue pour fournir des réponses précises, contextualisées et à jour, basées exclusivement sur les données réelles de la compétition.
+
+---
+
+## Objectifs du projet
+
+* **Fiabilité historique :** Fournir des résumés précis des matchs déjà joués.
+* **Intégrité des données :** Répondre honnêtement aux questions sur les événements à venir sans aucune hallucination.
+* **Centralisation de l'information :** Regrouper toutes les données clés sur les équipes, stades, coachs, groupes et classements.
+* **Pipeline Incremental :** Mettre à jour automatiquement les données via un flux de synchronisation continue.
+* **Standard Production :** Appliquer les meilleures pratiques RAG orientées vers un déploiement réel.
+
+---
+
+##  Principe clé : RAG Multi-Retrievers
+
+ASSAD se distingue par une séparation stratégique des flux d'informations pour garantir une précision maximale :
+
+### 1. Données Statiques (Rarement modifiées)
+* **Contenu :** Détails des équipes, infrastructures (stades), biographies des coachs, historique des qualifications et composition des groupes.
+* **Stockage :** Base vectorielle dédiée.
+
+### 2. Données Dynamiques (Fréquemment mises à jour)
+* **Contenu :** Résultats des matchs en temps réel, statistiques de jeu et calendriers mis à jour.
+* **Stockage :** Index vectoriel séparé pour des rafraîchissements rapides.
+
+###  Avantages de cette architecture
+* **Mises à jour ciblées :** Seul l'index dynamique est reconstruit fréquemment, économisant des ressources.
+* **Performance accrue :** Recherche sémantique optimisée par catégorie de données.
+* **Réduction des hallucinations :** Meilleur contrôle du contexte fourni au modèle de langage (LLM).
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
