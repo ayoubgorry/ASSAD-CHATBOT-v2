@@ -1,0 +1,117 @@
+{
+    "team": "Democratic Republic of Congo (DRC)",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Matthieu Epolo",
+                "club": "Standard de Liege"
+            },
+            {
+                "name": "Timothy Fayulu",
+                "club": "Noah"
+            },
+            {
+                "name": "Lionel Mpasi",
+                "club": "Le Havre"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Rocky Bushiri",
+                "club": "Hibernian"
+            },
+            {
+                "name": "Gedeon Kalulu",
+                "club": "Aris Limassol"
+            },
+            {
+                "name": "Steve Kapuadi",
+                "club": "Legia Warsaw"
+            },
+            {
+                "name": "Joris Kayembe",
+                "club": "Genk"
+            },
+            {
+                "name": "Arthur Masuaku",
+                "club": "Sunderland"
+            },
+            {
+                "name": "Chancel Mbemba",
+                "club": "Lille"
+            },
+            {
+                "name": "Axel Tuanzebe",
+                "club": "Burnley"
+            },
+            {
+                "name": "Aaron Wan-Bissaka",
+                "club": "West Ham"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Theo Bongonda",
+                "club": "Spartak Moscow"
+            },
+            {
+                "name": "Michel-Ange Balikwisha",
+                "club": "Celtic"
+            },
+            {
+                "name": "Brian Cipenga",
+                "club": "Castellon"
+            },
+            {
+                "name": "Edo Kayembe",
+                "club": "Watford"
+            },
+            {
+                "name": "Nathanaol Mbuku",
+                "club": "Montpellier"
+            },
+            {
+                "name": "Samuel Moutoussamy",
+                "club": "Atromitos"
+            },
+            {
+                "name": "Ngal'ayel Mukau",
+                "club": "Lille"
+            },
+            {
+                "name": "Charles Pickel",
+                "club": "Espanyol"
+            },
+            {
+                "name": "Noah Sadiki",
+                "club": "Sunderland"
+            },
+            {
+                "name": "Mario Stroeykens",
+                "club": "Anderlecht"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Cedric Bakambu",
+                "club": "Betis"
+            },
+            {
+                "name": "Simon Banza",
+                "club": "Al-Jazeera"
+            },
+            {
+                "name": "Samuel Essende",
+                "club": "Augsburg"
+            },
+            {
+                "name": "Meschack Elia",
+                "club": "Alanyaspor"
+            },
+            {
+                "name": "Fiston Mayele",
+                "club": "Pyramids"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 19",
+    "equipe_domicile": "Sénégal",
+    "score": "1 - 1",
+    "equipe_exterieur": "RD Congo",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "status": "played",
+    "affluence": "41 672",
+    "arbitre": "Lahlou Benbraham Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mané",
+            "minute": "69",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Bakambu",
+            "minute": "61",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Gueye",
+            "minute": "28",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

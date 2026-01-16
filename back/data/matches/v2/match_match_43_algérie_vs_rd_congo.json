@@ -1,0 +1,45 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 43",
+    "equipe_domicile": "Algérie",
+    "score": "1 - 0ap",
+    "equipe_exterieur": "RD Congo",
+    "stade": "Stade Moulay Hassan,Rabat",
+    "status": "played",
+    "affluence": "18 837",
+    "arbitre": "Mohamed Maarouf Eid Mansour Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Boulbina",
+            "minute": "119",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Belghali",
+            "minute": "94",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Hadj Moussa",
+            "minute": "99",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Bounedjah",
+            "minute": "122",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Mbemba",
+            "minute": "105",
+            "type": "jaune"
+        }
+    ]
+}

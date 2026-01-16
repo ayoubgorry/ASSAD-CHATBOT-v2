@@ -1,0 +1,66 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 17",
+    "date": "27 décembre 2025 21h00",
+    "equipe_domicile": "Nigeria",
+    "score": "3 - 2",
+    "equipe_exterieur": "Tunisie",
+    "stade": "Complexe sportif de Fès,Fès",
+    "buteurs_domicile": [
+        {
+            "joueur": "Osimhen",
+            "minute": "44",
+            "type": "normal",
+            "passe_decisive": "Lookman"
+        },
+        {
+            "joueur": "Ndidi",
+            "minute": "50",
+            "type": "normal",
+            "passe_decisive": "Lookman"
+        },
+        {
+            "joueur": "Lookman",
+            "minute": "67",
+            "type": "normal",
+            "passe_decisive": "Osimhen"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Talbi",
+            "minute": "74",
+            "type": "penalty",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Abdi",
+            "minute": "87",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Osimhen",
+            "minute": "44",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ajayi",
+            "minute": "56",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Nwabali",
+            "minute": "90+6",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "25 544",
+    "arbitre": "Boubou Traoré",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:04"
+}

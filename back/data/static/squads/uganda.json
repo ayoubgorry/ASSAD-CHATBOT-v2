@@ -1,0 +1,133 @@
+{
+    "team": "Uganda",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Salim Magoola",
+                "club": "Richards Bay"
+            },
+            {
+                "name": "Denis Onyango",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Nafian Alionzi",
+                "club": "Mechal"
+            },
+            {
+                "name": "Charles Lukwago",
+                "club": "KCCA FC"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Toby Sibbick",
+                "club": "Burton Albion"
+            },
+            {
+                "name": "Elio Caprodossi",
+                "club": "FC Universitatae Cluj"
+            },
+            {
+                "name": "Jordan Obita",
+                "club": "Hibernian"
+            },
+            {
+                "name": "Rogers Torach",
+                "club": "Vipers SC"
+            },
+            {
+                "name": "Aziz Kayondo",
+                "club": "Slovan Liberec"
+            },
+            {
+                "name": "Isaac Muleme",
+                "club": "Viktoria Zizkov"
+            },
+            {
+                "name": "Timothy Awany",
+                "club": "FC Ashdod"
+            },
+            {
+                "name": "David Owori",
+                "club": "SC Villa"
+            },
+            {
+                "name": "Hilary Mukundane",
+                "club": "Vipers SC"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Kenneth Semakula",
+                "club": "Al Adalah"
+            },
+            {
+                "name": "Khalid Aucho",
+                "club": "Singida Black Stars SC"
+            },
+            {
+                "name": "Ronald Ssekiganda",
+                "club": "APR FC"
+            },
+            {
+                "name": "Bobosi Byaruhanga",
+                "club": "Oakland Roots"
+            },
+            {
+                "name": "Baba Alhassan",
+                "club": "FCSB"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Allan Okello",
+                "club": "Vipers SC"
+            },
+            {
+                "name": "Melvyn Lorenzen",
+                "club": "Muangthong United"
+            },
+            {
+                "name": "Travis Mutyaba",
+                "club": "CS Sfaxien"
+            },
+            {
+                "name": "Denis Omedi",
+                "club": "APR FC"
+            },
+            {
+                "name": "Rogers Mato",
+                "club": "FK Vardar"
+            },
+            {
+                "name": "Reagan Mpande",
+                "club": "SC Villa"
+            },
+            {
+                "name": "Jude Ssemugabi",
+                "club": "Jamus FC"
+            },
+            {
+                "name": "Uche Ikpeazu",
+                "club": "St Johnstone"
+            },
+            {
+                "name": "Steven Mukwala",
+                "club": "Simba SC"
+            },
+            {
+                "name": "James Bogere",
+                "club": "Masaka Sunshine"
+            },
+            {
+                "name": "Ivan Ahimbisibwe",
+                "club": "KCCA FC"
+            },
+            {
+                "name": "Shafiq Kwikiriza",
+                "club": "KCCA FC"
+            }
+        ]
+    }
+}

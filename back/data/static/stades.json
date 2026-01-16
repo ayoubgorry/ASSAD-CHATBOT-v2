@@ -1,0 +1,47 @@
+[
+    {
+        "Ville": "Agadir",
+        "Stade": "Stade Adrar",
+        "Capacité": "45480"
+    },
+    {
+        "Ville": "Casablanca",
+        "Stade": "Stade Mohammed-V",
+        "Capacité": "45000"
+    },
+    {
+        "Ville": "Fès",
+        "Stade": "Stade de Fès",
+        "Capacité": "45000"
+    },
+    {
+        "Ville": "Marrakech",
+        "Stade": "Stade de Marrakech",
+        "Capacité": "45240"
+    },
+    {
+        "Ville": "Rabat",
+        "Stade": "Stade Prince Moulay Abdellah",
+        "Capacité": "69500"
+    },
+    {
+        "Ville": "Rabat",
+        "Stade": "Stade Moulay Hassan",
+        "Capacité": "22000"
+    },
+    {
+        "Ville": "Rabat",
+        "Stade": "Stade El Madina",
+        "Capacité": "18000"
+    },
+    {
+        "Ville": "Rabat",
+        "Stade": "Stade olympique de Rabat",
+        "Capacité": "21000"
+    },
+    {
+        "Ville": "Tanger",
+        "Stade": "Stade Ibn-Batouta",
+        "Capacité": "75600"
+    }
+]

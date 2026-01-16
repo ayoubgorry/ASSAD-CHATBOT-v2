@@ -1,0 +1,52 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 39",
+    "date": "4 janvier 2026 17h00",
+    "equipe_domicile": "Maroc",
+    "score": "1 - 0",
+    "equipe_exterieur": "Tanzanie",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Brahim",
+            "minute": "64",
+            "type": "normal",
+            "passe_decisive": "Hakimi"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Saibari",
+            "minute": "69",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Hamad",
+            "minute": "45+3",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Salum",
+            "minute": "67",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Samatta",
+            "minute": "78",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Alphonce",
+            "minute": "90",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "63 894",
+    "arbitre": "Boubou Traoré",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

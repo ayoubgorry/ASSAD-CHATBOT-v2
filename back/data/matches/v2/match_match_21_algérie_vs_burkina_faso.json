@@ -1,0 +1,45 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 21",
+    "equipe_domicile": "Algérie",
+    "score": "1 - 0",
+    "equipe_exterieur": "Burkina Faso",
+    "stade": "Stade Moulay Hassan,Rabat",
+    "status": "played",
+    "affluence": "18 522",
+    "arbitre": "Daniel Nii Laryea Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mahrez",
+            "minute": "23",
+            "type": "penalty"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Bennacer",
+            "minute": "27",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Amoura",
+            "minute": "73",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Sangaré",
+            "minute": "16",
+            "type": "jaune"
+        },
+        {
+            "joueur": "P. Kaboré",
+            "minute": "89",
+            "type": "jaune"
+        }
+    ]
+}

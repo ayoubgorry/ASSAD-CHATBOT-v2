@@ -1,0 +1,125 @@
+{
+    "team": "Tanzania",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Yakoub Suleiman",
+                "club": "Simba SC"
+            },
+            {
+                "name": "Hussein Masalanga",
+                "club": "Singida BS"
+            },
+            {
+                "name": "Zuberi Foba",
+                "club": "Azam FC"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Bakari Mwamnyeto",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Shomari Kapombe",
+                "club": "Simba SC"
+            },
+            {
+                "name": "Lusajo Mwaikenda",
+                "club": "Azam FC"
+            },
+            {
+                "name": "Mohamed Hussein",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Nickson Kibabage",
+                "club": "Singida BS"
+            },
+            {
+                "name": "Alphonse Mabula",
+                "club": "Shamakhi"
+            },
+            {
+                "name": "Wilson Nangu",
+                "club": "Simba SC"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Novatus Miroshi",
+                "club": "Göztepe"
+            },
+            {
+                "name": "Kelvin Nashon",
+                "club": "Pamba Jiji"
+            },
+            {
+                "name": "Pascal Msindo",
+                "club": "Azam FC"
+            },
+            {
+                "name": "Ibrahim Abdulla",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Haji Mnoga",
+                "club": "Salford City"
+            },
+            {
+                "name": "Dickson Job",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Habibu Idd",
+                "club": "Singida BS"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Tarryn Allarakhia",
+                "club": "Rochdale"
+            },
+            {
+                "name": "Charles M'Mombwa",
+                "club": "Floriana"
+            },
+            {
+                "name": "Yusuph Kagoma",
+                "club": "Simba SC"
+            },
+            {
+                "name": "Feisal Salum",
+                "club": "Azam FC"
+            },
+            {
+                "name": "Morice Abraham",
+                "club": "Simba SC"
+            },
+            {
+                "name": "Abdul Suleiman",
+                "club": "Azam FC"
+            },
+            {
+                "name": "Iddi Suleiman",
+                "club": "Azam FC"
+            },
+            {
+                "name": "Kibu Dennis",
+                "club": "Simba SC"
+            },
+            {
+                "name": "Ally Samatta",
+                "club": "Le Havre"
+            },
+            {
+                "name": "Kelvin John",
+                "club": "Aalborg"
+            },
+            {
+                "name": "Simon Msuva",
+                "club": "Al-Talaba"
+            }
+        ]
+    }
+}

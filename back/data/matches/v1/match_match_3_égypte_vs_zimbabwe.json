@@ -1,0 +1,55 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe B",
+    "match_n": "Match 3",
+    "date": "22 décembre 2025 21h00",
+    "equipe_domicile": "Égypte",
+    "score": "2 - 1",
+    "equipe_exterieur": "Zimbabwe",
+    "stade": "Stade Adrar,Agadir",
+    "buteurs_domicile": [
+        {
+            "joueur": "Marmoush",
+            "minute": "64",
+            "type": "normal",
+            "passe_decisive": "Hamdy"
+        },
+        {
+            "joueur": "Salah",
+            "minute": "90+1",
+            "type": "normal",
+            "passe_decisive": "Mohamed"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Dube",
+            "minute": "20",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Attia",
+            "minute": "33",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Trézéguet",
+            "minute": "44",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Navaya",
+            "minute": "57",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "28 199",
+    "arbitre": "Issa Sy",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

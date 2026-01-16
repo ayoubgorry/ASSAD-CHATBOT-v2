@@ -1,0 +1,50 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe B",
+    "match_n": "Match 28",
+    "equipe_domicile": "Zimbabwe",
+    "score": "2 - 3",
+    "equipe_exterieur": "Afrique du Sud",
+    "stade": "Stade de Marrakech,Marrakech",
+    "status": "played",
+    "affluence": "9 235",
+    "arbitre": "Mustapha Kechchaf Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Maswanhise",
+            "minute": "19",
+            "type": "normal"
+        },
+        {
+            "joueur": "Modiba",
+            "minute": "73",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Moremi",
+            "minute": "7",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Foster",
+            "minute": "50",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Appollis",
+            "minute": "82",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Nakamba",
+            "minute": "81",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

@@ -1,0 +1,49 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 36",
+    "date": "31 décembre 2025 20h00",
+    "equipe_domicile": "Mozambique",
+    "score": "1 - 2",
+    "equipe_exterieur": "Cameroun",
+    "stade": "Stade Adrar,Agadir",
+    "buteurs_domicile": [
+        {
+            "joueur": "Catamo",
+            "minute": "23",
+            "type": "normal",
+            "passe_decisive": "Nanani"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Nené",
+            "minute": "28",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Kofane",
+            "minute": "55",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Wooh",
+            "minute": "72",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Nyamsi",
+            "minute": "81",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "13 093",
+    "arbitre": "Jalal Jayed",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

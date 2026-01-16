@@ -1,0 +1,125 @@
+{
+    "team": "Mali",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Djigui Diarra",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Ismael Diawara",
+                "club": "IK Sirius"
+            },
+            {
+                "name": "Mamadou Samassa",
+                "club": "Laval"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Sikou Niakate",
+                "club": "SC Braga"
+            },
+            {
+                "name": "Abdoulaye Diaby",
+                "club": "Grasshoppers"
+            },
+            {
+                "name": "Woyo Coulibaly",
+                "club": "Sassuolo"
+            },
+            {
+                "name": "Fode Doucoure",
+                "club": "Red Star"
+            },
+            {
+                "name": "Hamari Traore",
+                "club": "Paris FC"
+            },
+            {
+                "name": "Ousmane Camara",
+                "club": "Angers SCO"
+            },
+            {
+                "name": "Mamadou Fofana",
+                "club": "New England Revolution"
+            },
+            {
+                "name": "Nathan Bassama",
+                "club": "Baltika"
+            },
+            {
+                "name": "Amadou Dante",
+                "club": "Arouca"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Amadou Haidara",
+                "club": "RB Leipzig"
+            },
+            {
+                "name": "Lassana Coulibaly",
+                "club": "Lecce"
+            },
+            {
+                "name": "Mohamed Camara",
+                "club": "Al-Saad / Qatar"
+            },
+            {
+                "name": "Mamadou Sangaré",
+                "club": "RC Lens"
+            },
+            {
+                "name": "Aliou Dieng",
+                "club": "Al-Ahly"
+            },
+            {
+                "name": "Yves Bissouma",
+                "club": "Tottenham"
+            },
+            {
+                "name": "Mahamadou Doumbia",
+                "club": "A Ittihad"
+            },
+            {
+                "name": "Ibrahima Sissoko",
+                "club": "VFL Bochum"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Nene Dorgeles",
+                "club": "Fenerbahce"
+            },
+            {
+                "name": "Gaoussou Diarra",
+                "club": "Feyenoord"
+            },
+            {
+                "name": "El-Bilal Toure",
+                "club": "Besiktas"
+            },
+            {
+                "name": "Lassine Sinayoko",
+                "club": "AJ Auxerre"
+            },
+            {
+                "name": "Kamory Doumbia",
+                "club": "Brest"
+            },
+            {
+                "name": "Mamadou Doumbia",
+                "club": "Watford"
+            },
+            {
+                "name": "Gaoussou Diakite",
+                "club": "Lausanne-Sport"
+            },
+            {
+                "name": "Mamadou Camara",
+                "club": "Laval"
+            }
+        ]
+    }
+}

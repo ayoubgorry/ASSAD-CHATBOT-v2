@@ -1,0 +1,71 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 13",
+    "equipe_domicile": "Maroc",
+    "score": "1 - 1",
+    "equipe_exterieur": "Mali",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "status": "played",
+    "affluence": "63 844",
+    "arbitre": "Abdou Abdel Mefire Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Brahim",
+            "minute": "45+5",
+            "type": "penalty"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Sinayoko",
+            "minute": "64",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Aguerd",
+            "minute": "52",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Camara",
+            "minute": "45+4",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Dieng",
+            "minute": "50",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Coulibaly",
+            "minute": "51",
+            "type": "jaune"
+        },
+        {
+            "joueur": "M.Doumbia",
+            "minute": "63",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Sinayoko",
+            "minute": "82",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Diarra",
+            "minute": "90+2",
+            "type": "jaune"
+        },
+        {
+            "joueur": "K. Doumbia",
+            "minute": "90+7",
+            "type": "jaune"
+        }
+    ]
+}

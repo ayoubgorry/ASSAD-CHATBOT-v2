@@ -1,0 +1,113 @@
+{
+    "team": "South Africa",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Ronwen Williams",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Ricardo Goss",
+                "club": "Siwelele"
+            },
+            {
+                "name": "Sipho Chaine",
+                "club": "Orlando Pirates"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Khuliso Mudau",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Thabang Matuludi",
+                "club": "Polokwane City"
+            },
+            {
+                "name": "Tylon Smith",
+                "club": "Queens Park Rangers"
+            },
+            {
+                "name": "Nkosinathi Sibisi",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Aubrey Modiba",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Khulamani Ndamane",
+                "club": "TS Galaxy"
+            },
+            {
+                "name": "Siyabonga Ngezana",
+                "club": "FCSB"
+            },
+            {
+                "name": "Samukele Kabini",
+                "club": "Molde"
+            },
+            {
+                "name": "Mbekezeli Mbokazi",
+                "club": "Orlando Pirates"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Teboho Mokoena",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Bathusi Aubaas",
+                "club": "Mamelodi Sundowns"
+            },
+            {
+                "name": "Thalente Mbatha",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Sphephelo Sithole",
+                "club": "Tondela"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Oswin Appollis",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Mohau Nkota",
+                "club": "Al Ettifaq"
+            },
+            {
+                "name": "Tshepang Moremi",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Evidence Makgopa",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Lyle Foster",
+                "club": "Burnley"
+            },
+            {
+                "name": "Sipho Mbule",
+                "club": "Orlando Pirates"
+            },
+            {
+                "name": "Elias Mokwana",
+                "club": "Al Hazem"
+            },
+            {
+                "name": "Shandre Campbell",
+                "club": "Club Bruges"
+            },
+            {
+                "name": "Relebohile Mofokeng",
+                "club": "Orlando Pirates"
+            }
+        ]
+    }
+}

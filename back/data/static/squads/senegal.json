@@ -1,0 +1,125 @@
+{
+    "team": "Senegal",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Edouard Mendy",
+                "club": "Al Ahli"
+            },
+            {
+                "name": "Yehvann Diouf",
+                "club": "Nice"
+            },
+            {
+                "name": "Mory Diaw",
+                "club": "Le Havre"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Ilay Camara",
+                "club": "Anderlecht"
+            },
+            {
+                "name": "Krépin Diatta",
+                "club": "AS Monaco"
+            },
+            {
+                "name": "Antoine Mendy",
+                "club": "Nice"
+            },
+            {
+                "name": "Kalidou Koulibaly",
+                "club": "Al Hilal"
+            },
+            {
+                "name": "Abdoulaye Sek",
+                "club": "Maccabi Haifa"
+            },
+            {
+                "name": "Moussa Niakhate",
+                "club": "Lyon"
+            },
+            {
+                "name": "Mamadou Sarr",
+                "club": "Strasbourg"
+            },
+            {
+                "name": "El-Hadji Malick Diouf",
+                "club": "West Ham"
+            },
+            {
+                "name": "Ismail Jakobs",
+                "club": "Galatasaray"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Idrissa Gana Gueye",
+                "club": "Everton"
+            },
+            {
+                "name": "Habib Diarra",
+                "club": "Sunderland"
+            },
+            {
+                "name": "Pape Matar Sarr",
+                "club": "Tottenham"
+            },
+            {
+                "name": "Pape Alassane Gueye",
+                "club": "Villarreal"
+            },
+            {
+                "name": "Lamine Camara",
+                "club": "AS Monaco"
+            },
+            {
+                "name": "Pathe Ciss",
+                "club": "Rayo Vallecano"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Sadio Mane",
+                "club": "Al Nassr"
+            },
+            {
+                "name": "Iliman Ndiaye",
+                "club": "Everton"
+            },
+            {
+                "name": "Nicolas Jackson",
+                "club": "Bayern Munich"
+            },
+            {
+                "name": "Habib Diallo",
+                "club": "Metz"
+            },
+            {
+                "name": "Boulaye Dia",
+                "club": "Lazio"
+            },
+            {
+                "name": "Cheikh T Sabaly",
+                "club": "Metz"
+            },
+            {
+                "name": "Assane Diao",
+                "club": "Como"
+            },
+            {
+                "name": "Ibrahim Mbaye",
+                "club": "PSG"
+            },
+            {
+                "name": "Cherif Ndiaye",
+                "club": "Samsunspor"
+            },
+            {
+                "name": "Ismaila Sarr",
+                "club": "Crystal Palace"
+            }
+        ]
+    }
+}

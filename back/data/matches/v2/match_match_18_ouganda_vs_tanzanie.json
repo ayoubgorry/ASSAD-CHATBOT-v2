@@ -1,0 +1,51 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 18",
+    "equipe_domicile": "Ouganda",
+    "score": "1 - 1",
+    "equipe_exterieur": "Tanzanie",
+    "stade": "Stade El Madina,Rabat",
+    "status": "played",
+    "affluence": "10 540",
+    "arbitre": "Jalal Jayed Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Ikpeazu",
+            "minute": "80",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Msuva",
+            "minute": "59",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Semakula",
+            "minute": "45+5",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Onyango",
+            "minute": "71",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ikpeazu",
+            "minute": "90+4",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Job",
+            "minute": "88",
+            "type": "jaune"
+        }
+    ]
+}

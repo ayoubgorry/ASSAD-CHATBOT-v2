@@ -1,0 +1,38 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 19",
+    "date": "27 décembre 2025 16h00",
+    "equipe_domicile": "Sénégal",
+    "score": "1 - 1",
+    "equipe_exterieur": "RD Congo",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mané",
+            "minute": "69",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Bakambu",
+            "minute": "61",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Gueye",
+            "minute": "28",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "41 672",
+    "arbitre": "Lahlou Benbraham",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

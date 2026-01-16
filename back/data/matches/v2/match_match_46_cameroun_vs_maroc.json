@@ -1,0 +1,28 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Quarts de finale",
+    "match_n": "Match 46",
+    "equipe_domicile": "Cameroun",
+    "score": "0 - 2",
+    "equipe_exterieur": "Maroc",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "status": "played",
+    "affluence": "64 178",
+    "arbitre": "Dahane Beida Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Brahim",
+            "minute": "26",
+            "type": "normal"
+        },
+        {
+            "joueur": "Saibari",
+            "minute": "74",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": []
+}

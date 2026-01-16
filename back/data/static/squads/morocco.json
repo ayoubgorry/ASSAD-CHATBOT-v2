@@ -1,0 +1,117 @@
+{
+    "team": "Morocco",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Yassine Bounou",
+                "club": "Al-Hilal / Saudi Arabia"
+            },
+            {
+                "name": "Munir El Kajoui",
+                "club": "RS Berkane"
+            },
+            {
+                "name": "El Mehdi Al Harrar",
+                "club": "Raja CA"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Achraf Hakimi",
+                "club": "PSG"
+            },
+            {
+                "name": "Mohamed Chibi",
+                "club": "Pyramids FC / Egypt"
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "club": "Al-Najma SC / Saudi Arabia"
+            },
+            {
+                "name": "Roman Saïss",
+                "club": "Al-Sadd SC / Qatar"
+            },
+            {
+                "name": "Abdelhamid Aït Boudlal",
+                "club": "Amiens SC / Ligue 2"
+            },
+            {
+                "name": "Nayef Aguerd",
+                "club": "Olympique de Marseille"
+            },
+            {
+                "name": "Adam Masina",
+                "club": "Torino FC / Italy"
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "club": "Manchester United / England"
+            },
+            {
+                "name": "Anass Salah-Eddine",
+                "club": "PSV Eindhoven / Netherlands"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Oussama Targhalline",
+                "club": "Feyenoord Rotterdam/Netherlands"
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "club": "Betis Sevilla/Spain"
+            },
+            {
+                "name": "Ismael Saibari",
+                "club": "PSV Eindhoven/Netherlands"
+            },
+            {
+                "name": "Neil El Aynaoui",
+                "club": "AS Roma/Italy"
+            },
+            {
+                "name": "Bilal El Khannouss",
+                "club": "VfB Stuttgart/Germany"
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "club": "Girona FC/Spain"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Brahim Diaz",
+                "club": "Real Madrid / Spain"
+            },
+            {
+                "name": "Ilias Akhomach",
+                "club": "Villarreal CF / Spain"
+            },
+            {
+                "name": "Chemsdine Talbi",
+                "club": "Sunderland AFC / England"
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "club": "Fenerbahce"
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "club": "Olympiakos / Greece"
+            },
+            {
+                "name": "Soufiane Rahimi",
+                "club": "Al-Ain / United Arab Emirates"
+            },
+            {
+                "name": "Abdessamad Ezzalzouli",
+                "club": "Betis Seville / Spain"
+            },
+            {
+                "name": "Eliesse Ben Seghir",
+                "club": "Monaco"
+            }
+        ]
+    }
+}

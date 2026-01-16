@@ -1,0 +1,56 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 29",
+    "equipe_domicile": "Ouganda",
+    "score": "1 - 3",
+    "equipe_exterieur": "Nigeria",
+    "stade": "Complexe sportif de Fès,Fès",
+    "status": "played",
+    "affluence": "11 545",
+    "arbitre": "Djindo Louis Houngnandande Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mato",
+            "minute": "75",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Onuachu",
+            "minute": "28",
+            "type": "normal"
+        },
+        {
+            "joueur": "Onyedika",
+            "minute": "62",
+            "type": "normal"
+        },
+        {
+            "joueur": "Onyedika",
+            "minute": "67",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Salim",
+            "minute": "56",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ikpeazu",
+            "minute": "66",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Bassey",
+            "minute": "90",
+            "type": "jaune"
+        }
+    ]
+}

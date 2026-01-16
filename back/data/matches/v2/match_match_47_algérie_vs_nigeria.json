@@ -1,0 +1,65 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Quarts de finale",
+    "match_n": "Match 47",
+    "equipe_domicile": "Algérie",
+    "score": "0 - 2",
+    "equipe_exterieur": "Nigeria",
+    "stade": "Stade de Marrakech,Marrakech",
+    "status": "played",
+    "affluence": "32 452",
+    "arbitre": "Issa Sy Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Osimhen",
+            "minute": "47",
+            "type": "normal"
+        },
+        {
+            "joueur": "Akor",
+            "minute": "57",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Zerrouki",
+            "minute": "15",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Amoura",
+            "minute": "28",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Aït-Nouri",
+            "minute": "62",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Hadj Moussa",
+            "minute": "68",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Boudaoui",
+            "minute": "75",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Ndidi",
+            "minute": "85",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Nwabali",
+            "minute": "90+9",
+            "type": "jaune"
+        }
+    ]
+}

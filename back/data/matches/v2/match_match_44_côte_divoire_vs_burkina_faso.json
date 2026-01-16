@@ -1,0 +1,44 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 44",
+    "equipe_domicile": "Côte d'Ivoire",
+    "score": "3 - 0",
+    "equipe_exterieur": "Burkina Faso",
+    "stade": "Stade de Marrakech,Marrakech",
+    "status": "played",
+    "affluence": "24 019",
+    "arbitre": "Mahmood Ali Mahmood Ismail Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Amad",
+            "minute": "20",
+            "type": "normal"
+        },
+        {
+            "joueur": "Diomandé",
+            "minute": "32",
+            "type": "normal"
+        },
+        {
+            "joueur": "Touré",
+            "minute": "87",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Inao Oulaï",
+            "minute": "63",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Sangaré",
+            "minute": "66",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

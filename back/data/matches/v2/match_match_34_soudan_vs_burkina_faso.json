@@ -1,0 +1,34 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 34",
+    "equipe_domicile": "Soudan",
+    "score": "0 - 2",
+    "equipe_exterieur": "Burkina Faso",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "status": "played",
+    "affluence": "10 084",
+    "arbitre": "Amin Mohamed Omar Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "L. Traoré",
+            "minute": "16",
+            "type": "normal"
+        },
+        {
+            "joueur": "Kouassi",
+            "minute": "85",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Badolo",
+            "minute": "88",
+            "type": "jaune"
+        }
+    ]
+}

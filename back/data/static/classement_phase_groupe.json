@@ -1,0 +1,320 @@
+[
+    {
+        "Nom_Groupe": "Groupe A",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Maroc",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "6",
+                "Buts_contre": "1",
+                "Diff": "+5"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "Mali",
+                "Pts": "3",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "3",
+                "Perdus": "0",
+                "Buts_pour": "2",
+                "Buts_contre": "2",
+                "Diff": "0"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Comores",
+                "Pts": "2",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "2",
+                "Perdus": "1",
+                "Buts_pour": "0",
+                "Buts_contre": "2",
+                "Diff": "-2"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Zambie",
+                "Pts": "2",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "2",
+                "Perdus": "1",
+                "Buts_pour": "1",
+                "Buts_contre": "4",
+                "Diff": "-3"
+            }
+        ]
+    },
+    {
+        "Nom_Groupe": "Groupe B",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Égypte",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "3",
+                "Buts_contre": "1",
+                "Diff": "+2"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "Afrique du Sud",
+                "Pts": "6",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "0",
+                "Perdus": "1",
+                "Buts_pour": "5",
+                "Buts_contre": "4",
+                "Diff": "+1"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Angola",
+                "Pts": "2",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "2",
+                "Perdus": "1",
+                "Buts_pour": "2",
+                "Buts_contre": "3",
+                "Diff": "-1"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Zimbabwe",
+                "Pts": "1",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "1",
+                "Perdus": "2",
+                "Buts_pour": "4",
+                "Buts_contre": "6",
+                "Diff": "-2"
+            }
+        ]
+    },
+    {
+        "Nom_Groupe": "Groupe C",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Nigeria",
+                "Pts": "9",
+                "Matchs_joues": "3",
+                "Gagnes": "3",
+                "Nuls": "0",
+                "Perdus": "0",
+                "Buts_pour": "8",
+                "Buts_contre": "4",
+                "Diff": "+4"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "Tunisie",
+                "Pts": "4",
+                "Matchs_joues": "3",
+                "Gagnes": "1",
+                "Nuls": "1",
+                "Perdus": "1",
+                "Buts_pour": "6",
+                "Buts_contre": "5",
+                "Diff": "+1"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Tanzanie",
+                "Pts": "2",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "2",
+                "Perdus": "1",
+                "Buts_pour": "3",
+                "Buts_contre": "4",
+                "Diff": "-1"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Ouganda",
+                "Pts": "1",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "1",
+                "Perdus": "2",
+                "Buts_pour": "3",
+                "Buts_contre": "7",
+                "Diff": "-4"
+            }
+        ]
+    },
+    {
+        "Nom_Groupe": "Groupe D",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Sénégal",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "7",
+                "Buts_contre": "1",
+                "Diff": "+6"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "RD Congo",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "5",
+                "Buts_contre": "1",
+                "Diff": "+4"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Bénin",
+                "Pts": "3",
+                "Matchs_joues": "3",
+                "Gagnes": "1",
+                "Nuls": "0",
+                "Perdus": "2",
+                "Buts_pour": "1",
+                "Buts_contre": "4",
+                "Diff": "-3"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Botswana",
+                "Pts": "0",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "0",
+                "Perdus": "3",
+                "Buts_pour": "0",
+                "Buts_contre": "7",
+                "Diff": "-7"
+            }
+        ]
+    },
+    {
+        "Nom_Groupe": "Groupe E",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Algérie",
+                "Pts": "9",
+                "Matchs_joues": "3",
+                "Gagnes": "3",
+                "Nuls": "0",
+                "Perdus": "0",
+                "Buts_pour": "7",
+                "Buts_contre": "1",
+                "Diff": "+6"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "Burkina Faso",
+                "Pts": "6",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "0",
+                "Perdus": "1",
+                "Buts_pour": "4",
+                "Buts_contre": "2",
+                "Diff": "+2"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Soudan",
+                "Pts": "3",
+                "Matchs_joues": "3",
+                "Gagnes": "1",
+                "Nuls": "0",
+                "Perdus": "2",
+                "Buts_pour": "1",
+                "Buts_contre": "5",
+                "Diff": "-4"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Guinée équatoriale",
+                "Pts": "0",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "0",
+                "Perdus": "3",
+                "Buts_pour": "2",
+                "Buts_contre": "6",
+                "Diff": "-4"
+            }
+        ]
+    },
+    {
+        "Nom_Groupe": "Groupe F",
+        "Classement": [
+            {
+                "Rang": "1",
+                "Equipe": "Côte d'Ivoire",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "5",
+                "Buts_contre": "3",
+                "Diff": "+2"
+            },
+            {
+                "Rang": "2",
+                "Equipe": "Cameroun",
+                "Pts": "7",
+                "Matchs_joues": "3",
+                "Gagnes": "2",
+                "Nuls": "1",
+                "Perdus": "0",
+                "Buts_pour": "4",
+                "Buts_contre": "2",
+                "Diff": "+2"
+            },
+            {
+                "Rang": "3",
+                "Equipe": "Mozambique",
+                "Pts": "3",
+                "Matchs_joues": "3",
+                "Gagnes": "1",
+                "Nuls": "0",
+                "Perdus": "2",
+                "Buts_pour": "4",
+                "Buts_contre": "5",
+                "Diff": "-1"
+            },
+            {
+                "Rang": "4",
+                "Equipe": "Gabon",
+                "Pts": "0",
+                "Matchs_joues": "3",
+                "Gagnes": "0",
+                "Nuls": "0",
+                "Perdus": "3",
+                "Buts_pour": "4",
+                "Buts_contre": "7",
+                "Diff": "-3"
+            }
+        ]
+    }
+]

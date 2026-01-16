@@ -1,0 +1,62 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 35",
+    "date": "31 décembre 2025 20h00",
+    "equipe_domicile": "Gabon",
+    "score": "2 - 3",
+    "equipe_exterieur": "Côte d'Ivoire",
+    "stade": "Stade de Marrakech,Marrakech",
+    "buteurs_domicile": [
+        {
+            "joueur": "Kanga",
+            "minute": "11",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Bouanga",
+            "minute": "21",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Krasso",
+            "minute": "44",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Guessand",
+            "minute": "84",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Touré",
+            "minute": "90+1",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Ndong",
+            "minute": "16",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Zohouri",
+            "minute": "54",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "20 838",
+    "arbitre": "Omar Abdulkadir Artan",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

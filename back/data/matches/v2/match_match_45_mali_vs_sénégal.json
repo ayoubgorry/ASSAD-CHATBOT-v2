@@ -1,0 +1,55 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Quarts de finale",
+    "match_n": "Match 45",
+    "equipe_domicile": "Mali",
+    "score": "0 - 1",
+    "equipe_exterieur": "Sénégal",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "status": "played",
+    "affluence": "32 285",
+    "arbitre": "Abongile Tom Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Ndiaye",
+            "minute": "27",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Bissouma",
+            "minute": "23",
+            "type": "jaune"
+        },
+        {
+            "joueur": "e Traoré",
+            "minute": "90",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Gueye",
+            "minute": "56",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Diarra",
+            "minute": "61",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Diallo",
+            "minute": "83",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mbaye",
+            "minute": "90+3",
+            "type": "jaune"
+        }
+    ]
+}

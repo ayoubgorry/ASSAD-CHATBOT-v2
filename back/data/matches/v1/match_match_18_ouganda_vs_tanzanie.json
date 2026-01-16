@@ -1,0 +1,54 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 18",
+    "date": "27 décembre 2025 18h30",
+    "equipe_domicile": "Ouganda",
+    "score": "1 - 1",
+    "equipe_exterieur": "Tanzanie",
+    "stade": "Stade El Madina,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Ikpeazu",
+            "minute": "80",
+            "type": "normal",
+            "passe_decisive": "Omedi"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Msuva",
+            "minute": "59",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Semakula",
+            "minute": "45+5",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Onyango",
+            "minute": "71",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ikpeazu",
+            "minute": "90+4",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Job",
+            "minute": "88",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "10 540",
+    "arbitre": "Jalal Jayed",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

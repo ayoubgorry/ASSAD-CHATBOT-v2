@@ -1,0 +1,47 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 21",
+    "date": "28 décembre 2025 18h30",
+    "equipe_domicile": "Algérie",
+    "score": "1 - 0",
+    "equipe_exterieur": "Burkina Faso",
+    "stade": "Stade Moulay Hassan,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mahrez",
+            "minute": "23",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Bennacer",
+            "minute": "27",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Amoura",
+            "minute": "73",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Sangaré",
+            "minute": "16",
+            "type": "jaune"
+        },
+        {
+            "joueur": "P. Kaboré",
+            "minute": "89",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "18 522",
+    "arbitre": "Daniel Nii Laryea",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

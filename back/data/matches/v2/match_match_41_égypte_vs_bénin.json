@@ -1,0 +1,76 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 41",
+    "equipe_domicile": "Égypte",
+    "score": "3 - 1ap",
+    "equipe_exterieur": "Bénin",
+    "stade": "Stade Adrar,Agadir",
+    "status": "played",
+    "affluence": "20 191",
+    "arbitre": "Pierre Ghislain Atcho Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Attia",
+            "minute": "69",
+            "type": "normal"
+        },
+        {
+            "joueur": "Yasser",
+            "minute": "97",
+            "type": "normal"
+        },
+        {
+            "joueur": "Salah",
+            "minute": "120+4",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Dossou",
+            "minute": "83",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Rabia",
+            "minute": "13",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Attia",
+            "minute": "29",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Fathi",
+            "minute": "79",
+            "type": "jaune"
+        },
+        {
+            "joueur": "A. Fetouh",
+            "minute": "106",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Olaitan",
+            "minute": "101",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Tijani",
+            "minute": "108",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Attidjikou",
+            "minute": "118",
+            "type": "jaune"
+        }
+    ]
+}

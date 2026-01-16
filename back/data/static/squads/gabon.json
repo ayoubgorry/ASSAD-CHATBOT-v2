@@ -1,0 +1,125 @@
+{
+    "team": "Gabon",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Loyce Mbaba",
+                "club": "Stella Club"
+            },
+            {
+                "name": "Anse Ngoubi Demba",
+                "club": "Mosta FC"
+            },
+            {
+                "name": "Junior Bekale",
+                "club": "Hafia FC"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Anthony Oyono",
+                "club": "Frosinone"
+            },
+            {
+                "name": "Jeremy Oyono",
+                "club": "Frosinone"
+            },
+            {
+                "name": "Johann Obiang",
+                "club": "Orleans"
+            },
+            {
+                "name": "Aaron Appindangoye",
+                "club": "Sivasspor"
+            },
+            {
+                "name": "Bruno Ecuele Manga",
+                "club": "Paris 13 Atletico"
+            },
+            {
+                "name": "Alexis Moucketou",
+                "club": "Aris Limassol"
+            },
+            {
+                "name": "Mick Onfia",
+                "club": "Hafia FC"
+            },
+            {
+                "name": "Jonathan Do Marcolino",
+                "club": "Bourg-en-Bresse"
+            },
+            {
+                "name": "Uriel-Michel Mboula",
+                "club": "Metz"
+            },
+            {
+                "name": "Jacques Ekomie",
+                "club": "Angers"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Mario Lemina",
+                "club": "Galatasaray"
+            },
+            {
+                "name": "Samake Nze",
+                "club": "Stade d'Abidjan"
+            },
+            {
+                "name": "Guelor Kanga",
+                "club": "Esenler Erokspor"
+            },
+            {
+                "name": "Eric Gocoum",
+                "club": "Gol Gohar Sirjan FC"
+            },
+            {
+                "name": "André Poko",
+                "club": "Amed SK"
+            },
+            {
+                "name": "Ruben Loufilou",
+                "club": "Al Mina'a SC"
+            },
+            {
+                "name": "Didier Ndong",
+                "club": "Esteghlal"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Shavy Babicka",
+                "club": "Toulouse"
+            },
+            {
+                "name": "Teddy Averlant",
+                "club": "Amiens"
+            },
+            {
+                "name": "Denis Bouanga",
+                "club": "LAFC"
+            },
+            {
+                "name": "Edlin Essang-Matouti",
+                "club": "USM Khenchela"
+            },
+            {
+                "name": "Malick Evouna",
+                "club": "AS Mangasport Moanda"
+            },
+            {
+                "name": "Pierre-Emerick Aubameyang",
+                "club": "Marseille"
+            },
+            {
+                "name": "Royce Openda",
+                "club": "Bordeaux"
+            },
+            {
+                "name": "Jim Allevinah",
+                "club": "Angers"
+            }
+        ]
+    }
+}

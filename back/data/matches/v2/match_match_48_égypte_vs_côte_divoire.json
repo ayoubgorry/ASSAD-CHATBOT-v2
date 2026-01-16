@@ -1,0 +1,55 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Quarts de finale",
+    "match_n": "Match 48",
+    "equipe_domicile": "Égypte",
+    "score": "3 - 2",
+    "equipe_exterieur": "Côte d'Ivoire",
+    "stade": "Stade Adrar,Agadir",
+    "status": "played",
+    "affluence": "31 213",
+    "arbitre": "Mustapha Ghorbal Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Marmoush",
+            "minute": "4",
+            "type": "normal"
+        },
+        {
+            "joueur": "Rabia",
+            "minute": "32",
+            "type": "normal"
+        },
+        {
+            "joueur": "Salah",
+            "minute": "52",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Fatouh",
+            "minute": "40",
+            "type": "normal"
+        },
+        {
+            "joueur": "Doué",
+            "minute": "73",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Hossam",
+            "minute": "69",
+            "type": "jaune"
+        },
+        {
+            "joueur": "El Shenawy",
+            "minute": "90+4",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

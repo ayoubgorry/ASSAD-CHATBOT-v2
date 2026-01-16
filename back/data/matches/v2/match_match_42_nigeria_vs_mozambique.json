@@ -1,0 +1,54 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 42",
+    "equipe_domicile": "Nigeria",
+    "score": "4 - 0",
+    "equipe_exterieur": "Mozambique",
+    "stade": "Complexe sportif de Fès,Fès",
+    "status": "played",
+    "affluence": "14 593",
+    "arbitre": "Abdou Abdel Mefire Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Lookman",
+            "minute": "20",
+            "type": "normal"
+        },
+        {
+            "joueur": "Osimhen",
+            "minute": "25",
+            "type": "normal"
+        },
+        {
+            "joueur": "Osimhen",
+            "minute": "47",
+            "type": "normal"
+        },
+        {
+            "joueur": "Akor",
+            "minute": "75",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Ndidi",
+            "minute": "38",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Onyeka",
+            "minute": "45+3",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Bassey",
+            "minute": "90+3",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

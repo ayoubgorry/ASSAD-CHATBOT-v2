@@ -1,0 +1,113 @@
+{
+    "team": "Burkina Faso",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Herve Koffi",
+                "club": "Angers"
+            },
+            {
+                "name": "Kylian Nikiema",
+                "club": "ADO Den Haag"
+            },
+            {
+                "name": "Farid Ouedraogo",
+                "club": "Al Hilal"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Abdoul Ayinde",
+                "club": "KAA Gent"
+            },
+            {
+                "name": "Issoufou Dayo",
+                "club": "Umm Salal"
+            },
+            {
+                "name": "Nasser Djiga",
+                "club": "Rangers"
+            },
+            {
+                "name": "Issa Kabore",
+                "club": "Wrexham"
+            },
+            {
+                "name": "Arsene Kouassi",
+                "club": "Lorient"
+            },
+            {
+                "name": "Adamo Nagalo",
+                "club": "PSV"
+            },
+            {
+                "name": "Edmond Tapsoba",
+                "club": "Bayer Leverkusen"
+            },
+            {
+                "name": "Steeve Yago",
+                "club": "Aris Limassol"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Cedric Badolo",
+                "club": "Spartak Trnava"
+            },
+            {
+                "name": "Stéphane Aziz Ki",
+                "club": "Wydad Casablanca"
+            },
+            {
+                "name": "Ismaila Ouedraogo",
+                "club": "Odense"
+            },
+            {
+                "name": "Saidou Simpore",
+                "club": "National Bank"
+            },
+            {
+                "name": "Blati Touré",
+                "club": "Pyramids"
+            },
+            {
+                "name": "Gustavo Sangaré",
+                "club": "Noah"
+            },
+            {
+                "name": "Mohamed Zoungrana",
+                "club": "Mouloudia Alger"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Ousseni Bouda",
+                "club": "San Jose Earthquakes"
+            },
+            {
+                "name": "Cyriaque Irie",
+                "club": "Freiburg"
+            },
+            {
+                "name": "Pierre Kabore",
+                "club": "Hearts"
+            },
+            {
+                "name": "Georgi Minoungou",
+                "club": "Seattle Sounders"
+            },
+            {
+                "name": "Dango Ouattara",
+                "club": "Brentford"
+            },
+            {
+                "name": "Bertrand Traore",
+                "club": "Sunderland"
+            },
+            {
+                "name": "Lassina Traore",
+                "club": "Shakhtar"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 1 (Match d'ouverture)",
+    "date": "21 décembre 2025 20h00",
+    "equipe_domicile": "Maroc",
+    "score": "2 - 0",
+    "equipe_exterieur": "Comores",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Brahim",
+            "minute": "55",
+            "type": "normal",
+            "passe_decisive": "Mazraoui"
+        },
+        {
+            "joueur": "El Kaabi",
+            "minute": "74",
+            "type": "normal",
+            "passe_decisive": "Salah-Eddine"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Brahim",
+            "minute": "45+3",
+            "type": "jaune"
+        },
+        {
+            "joueur": "El Yamiq",
+            "minute": "78",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Amrabat",
+            "minute": "90",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "60 180",
+    "arbitre": "Jean-Jacques Ndala",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

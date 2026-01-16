@@ -1,0 +1,52 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 8",
+    "date": "23 décembre 2025 13h30",
+    "equipe_domicile": "RD Congo",
+    "score": "1 - 0",
+    "equipe_exterieur": "Bénin",
+    "stade": "Stade El Madina,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Bongonda",
+            "minute": "16",
+            "type": "normal",
+            "passe_decisive": "Masuaku"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Moutoussamy",
+            "minute": "20",
+            "type": "jaune"
+        },
+        {
+            "joueur": "E. Kayembe",
+            "minute": "36",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Bakambu",
+            "minute": "64",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Dossou",
+            "minute": "72",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Amoussou",
+            "minute": "77",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "13 073",
+    "arbitre": "Abongile Tom",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:06"
+}

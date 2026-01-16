@@ -1,0 +1,40 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 20",
+    "equipe_domicile": "Bénin",
+    "score": "1 - 0",
+    "equipe_exterieur": "Botswana",
+    "stade": "Stade olympique de Rabat,Rabat",
+    "status": "played",
+    "affluence": "7 462",
+    "arbitre": "Shamirah Nabadda Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Roche",
+            "minute": "28",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Ouorou",
+            "minute": "85",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Aloko",
+            "minute": "90+4",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Seakanyeng",
+            "minute": "44",
+            "type": "jaune"
+        }
+    ]
+}

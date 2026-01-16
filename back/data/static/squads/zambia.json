@@ -1,0 +1,125 @@
+{
+    "team": "Zambia",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Lawrence Mulenga",
+                "club": "Power Dynamos"
+            },
+            {
+                "name": "Francis Mwansa",
+                "club": "Zanaco"
+            },
+            {
+                "name": "Willard Mwanza",
+                "club": "Power Dynamos"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Mathews Banda",
+                "club": "Nkana"
+            },
+            {
+                "name": "Dominic Chanda",
+                "club": "Power Dynamos"
+            },
+            {
+                "name": "Obino Chisala",
+                "club": "Al Merrikh"
+            },
+            {
+                "name": "Kabaso Chongo",
+                "club": "Zesco United"
+            },
+            {
+                "name": "David Hamansenya",
+                "club": "Leganes"
+            },
+            {
+                "name": "Gift Mphande",
+                "club": "Zesco United"
+            },
+            {
+                "name": "Frankie Musonda",
+                "club": "Bahrain SC"
+            },
+            {
+                "name": "Benson Sakala",
+                "club": "Bohemians 1905"
+            },
+            {
+                "name": "Stoppila Sunzu",
+                "club": "Changchun Yatai"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Joseph Sabobo Banda",
+                "club": "Hapoel Be'er Sheva"
+            },
+            {
+                "name": "Lameck Banda",
+                "club": "Lecce"
+            },
+            {
+                "name": "Miguel Chaiwa",
+                "club": "Hibernian"
+            },
+            {
+                "name": "Wilson Chisala",
+                "club": "Zanaco"
+            },
+            {
+                "name": "Given Kalusa",
+                "club": "FC Muza"
+            },
+            {
+                "name": "Kings Kangwa",
+                "club": "Hapoel Be'er Sheva"
+            },
+            {
+                "name": "Joseph Liteta",
+                "club": "Cagliari"
+            },
+            {
+                "name": "Lubambo Musonda",
+                "club": "FC Magdeburg"
+            },
+            {
+                "name": "Pascal Phiri",
+                "club": "Zesco United"
+            },
+            {
+                "name": "Fashion Sakala",
+                "club": "Al Fayha"
+            },
+            {
+                "name": "David Simukonda",
+                "club": "Zesco United"
+            },
+            {
+                "name": "Owen Tembo",
+                "club": "Power Dynamos"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Patson Daka",
+                "club": "Leicester City"
+            },
+            {
+                "name": "Jack Lahne Kalichi",
+                "club": "Austria Lustenau"
+            },
+            {
+                "name": "Eliya Mandanji",
+                "club": "Zanaco"
+            },
+            {
+                "name": "Kennedy Musonda",
+                "club": "Hapoel Ramat Gan"
+            }
+        ]
+    }
+}

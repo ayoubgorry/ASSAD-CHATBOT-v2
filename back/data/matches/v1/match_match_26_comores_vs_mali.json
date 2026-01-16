@@ -1,0 +1,40 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 26",
+    "date": "29 décembre 2025 20h00",
+    "equipe_domicile": "Comores",
+    "score": "0 - 0",
+    "equipe_exterieur": "Mali",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Toibibou",
+            "minute": "34",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Boura",
+            "minute": "79",
+            "type": "jaune"
+        },
+        {
+            "joueur": "El Fardou",
+            "minute": "90+1",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Camara",
+            "minute": "88",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "8 842",
+    "arbitre": "Alhadji Allaou Mahamat",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

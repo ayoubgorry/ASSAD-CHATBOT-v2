@@ -1,0 +1,39 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 9",
+    "equipe_domicile": "Algérie",
+    "score": "3 - 0",
+    "equipe_exterieur": "Soudan",
+    "stade": "Stade Moulay Hassan,Rabat",
+    "status": "played",
+    "affluence": "16 115",
+    "arbitre": "Pierre Atcho Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Mahrez",
+            "minute": "2",
+            "type": "normal"
+        },
+        {
+            "joueur": "Mahrez",
+            "minute": "61",
+            "type": "normal"
+        },
+        {
+            "joueur": "Maza",
+            "minute": "85",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Alhassan",
+            "minute": "52",
+            "type": "jaune"
+        }
+    ]
+}

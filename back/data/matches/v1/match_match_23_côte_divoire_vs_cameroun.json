@@ -1,0 +1,49 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 23",
+    "date": "28 décembre 2025 21h00",
+    "equipe_domicile": "Côte d'Ivoire",
+    "score": "1 - 1",
+    "equipe_exterieur": "Cameroun",
+    "stade": "Stade de Marrakech,Marrakech",
+    "buteurs_domicile": [
+        {
+            "joueur": "Amad",
+            "minute": "51",
+            "type": "normal",
+            "passe_decisive": "G. Konan"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Konan",
+            "minute": "56",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Amad",
+            "minute": "38",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Inao Oulaï",
+            "minute": "80",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Baleba",
+            "minute": "75",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "35 165",
+    "arbitre": "Mustapha Ghorbal",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

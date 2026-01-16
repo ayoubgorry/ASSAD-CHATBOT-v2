@@ -1,0 +1,60 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 31",
+    "equipe_domicile": "Bénin",
+    "score": "0 - 3",
+    "equipe_exterieur": "Sénégal",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "status": "played",
+    "affluence": "26 707",
+    "arbitre": "Samuel Uwikunda Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Seck",
+            "minute": "38",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Diallo",
+            "minute": "62",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Ndiaye",
+            "minute": "90+7",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Dodo",
+            "minute": "20",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Tosin",
+            "minute": "24",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mounié",
+            "minute": "82",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Moumini",
+            "minute": "90+4",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Camara",
+            "minute": "71",
+            "type": "jaune"
+        }
+    ]
+}

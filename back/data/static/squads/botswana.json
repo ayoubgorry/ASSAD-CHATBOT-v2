@@ -1,0 +1,141 @@
+{
+    "team": "Botswana",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Lesenya Malapela",
+                "club": "Orapa United"
+            },
+            {
+                "name": "Keoagile Kgosipula",
+                "club": "Orapa United"
+            },
+            {
+                "name": "Goitseone Phoko",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Kabelo Dambe",
+                "club": "Township Rollers"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Alford Velaphi",
+                "club": "Gaborone United"
+            },
+            {
+                "name": "Mothusi Johnson",
+                "club": "Gaborone United"
+            },
+            {
+                "name": "Mosha Gaolaolwe",
+                "club": "Township Rollers"
+            },
+            {
+                "name": "Thatayaone Ditlhokwe",
+                "club": "Al Ittihad"
+            },
+            {
+                "name": "Shanganani Ngandane",
+                "club": "Mochudi Centre Chiefs"
+            },
+            {
+                "name": "Chicco Molefe",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Thabo Leinanyane",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Tebogo Kopelang",
+                "club": "Jwaneng Galaxy"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Godiraone Modingwane",
+                "club": "BDF XI"
+            },
+            {
+                "name": "Olebogeng Ramotse",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Gape Mohutsiwa",
+                "club": "McOran"
+            },
+            {
+                "name": "Omphile Vissagie",
+                "club": "Township Rollers"
+            },
+            {
+                "name": "Gilbert Baruti",
+                "club": "Mochudi Centre Chiefs"
+            },
+            {
+                "name": "Mothusi Cooper",
+                "club": "Township Rollers"
+            },
+            {
+                "name": "Lebogang Ditsile",
+                "club": "Gaborone United"
+            },
+            {
+                "name": "Thabo Maponda",
+                "club": "Gaborone United"
+            },
+            {
+                "name": "Monty Enosa",
+                "club": "Mochudi Centre Chiefs"
+            },
+            {
+                "name": "Roketso Majafi",
+                "club": "Orapa United"
+            },
+            {
+                "name": "Omphile Ramoagi",
+                "club": "Gaborone United"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Omaatla Kebatho",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Kabelo Seakanyeng",
+                "club": "MAS Fes"
+            },
+            {
+                "name": "Thabang Sesinyi",
+                "club": "Jwaneng Galaxy"
+            },
+            {
+                "name": "Tumisang Orebonye",
+                "club": "Wydad AC"
+            },
+            {
+                "name": "Segolame Boye",
+                "club": "SA Flamingoes"
+            },
+            {
+                "name": "Eric Ookame",
+                "club": "Orapa United"
+            },
+            {
+                "name": "Thabang Balatlheng",
+                "club": "Township Rollers"
+            },
+            {
+                "name": "Losika Ratshukudu",
+                "club": "Ubuntu FC / South Africa"
+            },
+            {
+                "name": "Thatayaone Kgamanyane",
+                "club": "Gaborone United"
+            }
+        ]
+    }
+}

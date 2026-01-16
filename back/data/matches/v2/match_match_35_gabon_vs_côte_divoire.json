@@ -1,0 +1,56 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 35",
+    "equipe_domicile": "Gabon",
+    "score": "2 - 3",
+    "equipe_exterieur": "Côte d'Ivoire",
+    "stade": "Stade de Marrakech,Marrakech",
+    "status": "played",
+    "affluence": "20 838",
+    "arbitre": "Omar Abdulkadir Artan Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Kanga",
+            "minute": "11",
+            "type": "normal"
+        },
+        {
+            "joueur": "Bouanga",
+            "minute": "21",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Krasso",
+            "minute": "44",
+            "type": "normal"
+        },
+        {
+            "joueur": "Guessand",
+            "minute": "84",
+            "type": "normal"
+        },
+        {
+            "joueur": "Touré",
+            "minute": "90+1",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Ndong",
+            "minute": "16",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Zohouri",
+            "minute": "54",
+            "type": "jaune"
+        }
+    ]
+}

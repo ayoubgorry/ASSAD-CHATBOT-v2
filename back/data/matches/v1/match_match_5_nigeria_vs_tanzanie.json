@@ -1,0 +1,44 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 5",
+    "date": "23 décembre 2025 18h30",
+    "equipe_domicile": "Nigeria",
+    "score": "2 - 1",
+    "equipe_exterieur": "Tanzanie",
+    "stade": "Complexe sportif de Fès,Fès",
+    "buteurs_domicile": [
+        {
+            "joueur": "Ajayi",
+            "minute": "36",
+            "type": "normal",
+            "passe_decisive": "Iwobi"
+        },
+        {
+            "joueur": "Lookman",
+            "minute": "52",
+            "type": "normal",
+            "passe_decisive": "Iwobi"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "M",
+            "minute": "50",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Lookman",
+            "minute": "58",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "11 444",
+    "arbitre": "Dahane Beida",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

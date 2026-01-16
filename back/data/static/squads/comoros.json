@@ -1,0 +1,109 @@
+{
+    "team": "Comoros",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Yannick Pandor",
+                "club": "Francs Borains"
+            },
+            {
+                "name": "Salim Ben Boina",
+                "club": "Istres"
+            },
+            {
+                "name": "Adel Anzimati",
+                "club": "FC Ararat"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Said Bakari",
+                "club": "Sparta Rotterdam"
+            },
+            {
+                "name": "Kassim M'Dahoma",
+                "club": "Aubagne"
+            },
+            {
+                "name": "Kenan Toibibou",
+                "club": "Bravo"
+            },
+            {
+                "name": "Ahmed Soilihi",
+                "club": "Toulon"
+            },
+            {
+                "name": "Idris Mohamed",
+                "club": "Le Puy"
+            },
+            {
+                "name": "Akim Abdallah",
+                "club": "Guingamp"
+            },
+            {
+                "name": "Bendjaloud Youssouf",
+                "club": "FC Sochaux"
+            },
+            {
+                "name": "Remy Vita",
+                "club": "CD Tondela"
+            },
+            {
+                "name": "Ismael Boura",
+                "club": "Troyes"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Youssouf M'Changama",
+                "club": "Al-Batin"
+            },
+            {
+                "name": "Zaydou Youssouf",
+                "club": "Al-Fateh / Saudi Arabia"
+            },
+            {
+                "name": "Rayan Lutin",
+                "club": "Amiens"
+            },
+            {
+                "name": "Raouf Mroivili",
+                "club": "Villefranche"
+            },
+            {
+                "name": "Iyad Mohamed",
+                "club": "Casa Pia"
+            },
+            {
+                "name": "Aymeric Ahmed",
+                "club": "Chateauroux"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Rafiki Said",
+                "club": "Standard de Liege"
+            },
+            {
+                "name": "Myziane Maolida",
+                "club": "Al Kholood"
+            },
+            {
+                "name": "Faiz Selemani",
+                "club": "Qatar SC"
+            },
+            {
+                "name": "Aboubacar Ali Abdallah",
+                "club": "Francs Borains"
+            },
+            {
+                "name": "El Fardou Ben Mohamed",
+                "club": "Zemun"
+            },
+            {
+                "name": "Zaïd Amir",
+                "club": "Istres"
+            }
+        ]
+    }
+}

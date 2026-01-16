@@ -1,0 +1,36 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 12",
+    "date": "24 décembre 2025 21h00",
+    "equipe_domicile": "Cameroun",
+    "score": "1 - 0",
+    "equipe_exterieur": "Gabon",
+    "stade": "Stade Adrar,Agadir",
+    "buteurs_domicile": [
+        {
+            "joueur": "Etta Eyong",
+            "minute": "6",
+            "type": "normal",
+            "passe_decisive": "Mbeumo"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Mbeumo",
+            "minute": "79",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Tchamadeu",
+            "minute": "87",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "35 200",
+    "arbitre": "Amin Mohamed Omar",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:04"
+}

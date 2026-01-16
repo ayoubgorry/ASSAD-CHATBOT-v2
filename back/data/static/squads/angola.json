@@ -1,0 +1,125 @@
+{
+    "team": "Angola",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Neblu",
+                "club": "Primeiro de Agosto"
+            },
+            {
+                "name": "Hugo Marques",
+                "club": "Petro de Luanda"
+            },
+            {
+                "name": "Signori Antonio",
+                "club": "Etoile Carouge"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Rui Modesto",
+                "club": "Udinese"
+            },
+            {
+                "name": "Eddie Afonso",
+                "club": "Petro de Luanda"
+            },
+            {
+                "name": "To Carneiro",
+                "club": "FAR Rabat"
+            },
+            {
+                "name": "Nurio Fortuna",
+                "club": "Volos"
+            },
+            {
+                "name": "Pedro Bondo",
+                "club": "Famalicao"
+            },
+            {
+                "name": "David Carmo",
+                "club": "Real Oviedo"
+            },
+            {
+                "name": "Jonathan Buatu",
+                "club": "Gil Vicente"
+            },
+            {
+                "name": "Kilandola Gaspar",
+                "club": "Lecce"
+            },
+            {
+                "name": "Clinton Mata",
+                "club": "Olympique Lyonnais"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Beni Mukendi",
+                "club": "Guimaraes"
+            },
+            {
+                "name": "Show",
+                "club": "Kocaelispor"
+            },
+            {
+                "name": "Fredy",
+                "club": "Bodrumspor"
+            },
+            {
+                "name": "Maestro",
+                "club": "Alanyaspor"
+            },
+            {
+                "name": "Kelliano",
+                "club": "Akhmat Grozny"
+            },
+            {
+                "name": "Mario Balburdia",
+                "club": "Boluspor"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Zito Luvumbo",
+                "club": "Cagliari"
+            },
+            {
+                "name": "Manuel Benson",
+                "club": "Swansea City"
+            },
+            {
+                "name": "Milson",
+                "club": "Red Star Belgrade"
+            },
+            {
+                "name": "Chico Banza",
+                "club": "Zamalek SC"
+            },
+            {
+                "name": "Gelson Dala",
+                "club": "Al-Wakrah"
+            },
+            {
+                "name": "Randy Nteka",
+                "club": "Rayo Vallecano"
+            },
+            {
+                "name": "Ary Papel",
+                "club": "Al-Akhdar SC"
+            },
+            {
+                "name": "Mabulu",
+                "club": "Al-Ahli Tripoli SC"
+            },
+            {
+                "name": "Mbala Zola",
+                "club": "Pisa"
+            },
+            {
+                "name": "Zine Salvador",
+                "club": "AEK"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 38",
+    "equipe_domicile": "Mali",
+    "score": "1 - 1ap",
+    "equipe_exterieur": "Tunisie",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "status": "played",
+    "affluence": "41 982",
+    "arbitre": "Abongile Tom Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Sinayoko",
+            "minute": "90+6",
+            "type": "penalty"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Chaouat",
+            "minute": "88",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Doumbia",
+            "minute": "4",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Bissouma",
+            "minute": "17",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Coulibaly",
+            "minute": "26",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Dorgeles",
+            "minute": "103",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Sissoko",
+            "minute": "118",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Bronn",
+            "minute": "23",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Belhadj",
+            "minute": "60",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mejbri",
+            "minute": "85",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Chaouat",
+            "minute": "90+2",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ben Romdhane",
+            "minute": "109",
+            "type": "jaune"
+        }
+    ]
+}

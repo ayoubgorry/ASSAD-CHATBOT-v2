@@ -1,0 +1,37 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 32",
+    "date": "30 décembre 2025 20h00",
+    "equipe_domicile": "Botswana",
+    "score": "0 - 3",
+    "equipe_exterieur": "RD Congo",
+    "stade": "Stade El Madina,Rabat",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Mbuku",
+            "minute": "31",
+            "type": "penalty",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Kakuta",
+            "minute": "41",
+            "type": "penalty",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Kakuta",
+            "minute": "60",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": [],
+    "affluence": "12 569",
+    "arbitre": "Ahmed Imtehaz Heerallal",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

@@ -1,0 +1,50 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 10",
+    "date": "24 décembre 2025 13h30",
+    "equipe_domicile": "Burkina Faso",
+    "score": "2 - 1",
+    "equipe_exterieur": "Guinée équatoriale",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "buteurs_domicile": [
+        {
+            "joueur": "Minoungou",
+            "minute": "90+5",
+            "type": "normal",
+            "passe_decisive": "Ouattara"
+        },
+        {
+            "joueur": "Tapsoba",
+            "minute": "90+8",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Anieboh",
+            "minute": "85",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Ouédraogo",
+            "minute": "32",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Ndong",
+            "minute": "67",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "10 267",
+    "arbitre": "Mohamed Maarouf",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:04"
+}

@@ -1,0 +1,37 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 34",
+    "date": "31 décembre 2025 17h00",
+    "equipe_domicile": "Soudan",
+    "score": "0 - 2",
+    "equipe_exterieur": "Burkina Faso",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "L. Traoré",
+            "minute": "16",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Kouassi",
+            "minute": "85",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Badolo",
+            "minute": "88",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "10 084",
+    "arbitre": "Amin Mohamed Omar",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

@@ -1,0 +1,45 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 30",
+    "equipe_domicile": "Tanzanie",
+    "score": "1 - 1",
+    "equipe_exterieur": "Tunisie",
+    "stade": "Stade olympique de Rabat,Rabat",
+    "status": "played",
+    "affluence": "15 205",
+    "arbitre": "Jean-Jacques Ndala Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Salum",
+            "minute": "48",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Gharbi",
+            "minute": "43",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Hamad",
+            "minute": "41",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mwamnyeto",
+            "minute": "57",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Msuva",
+            "minute": "59",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

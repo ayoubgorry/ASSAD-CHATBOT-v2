@@ -1,0 +1,125 @@
+{
+    "team": "Zimbabwe",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Washington Arubi",
+                "club": "Marumo Gallants"
+            },
+            {
+                "name": "Elvis Chipezeze",
+                "club": "Magesi"
+            },
+            {
+                "name": "Martin Mapisa",
+                "club": "MWOS FC"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Godknows Murwira",
+                "club": "Scottland FC"
+            },
+            {
+                "name": "Emmanuel Jalai",
+                "club": "Dynamos FC"
+            },
+            {
+                "name": "Sean Fusire",
+                "club": "Sheffield Wednesday"
+            },
+            {
+                "name": "Munashe Garananga",
+                "club": "FC Copenhagen"
+            },
+            {
+                "name": "Gerald Takwara",
+                "club": "Al Ittihad Misurata SC Libya"
+            },
+            {
+                "name": "Isheanesu Mauchi",
+                "club": "Simba Bhora FC"
+            },
+            {
+                "name": "Brandon Galloway",
+                "club": "Plymouth Argyle"
+            },
+            {
+                "name": "Teenage Hadebe",
+                "club": "FC Cincinnati"
+            },
+            {
+                "name": "Alec Mudimu",
+                "club": "Flint Town United"
+            },
+            {
+                "name": "Divine Lunga",
+                "club": "Mamelodi Sundowns"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Marvelous Nakamba",
+                "club": "Luton Town"
+            },
+            {
+                "name": "Jonah Fabisch",
+                "club": "Erzegebirg Aue"
+            },
+            {
+                "name": "Andrew Rinohmhota",
+                "club": "Reading"
+            },
+            {
+                "name": "Prosper Padera",
+                "club": "SJK Seina Joki"
+            },
+            {
+                "name": "Tawanda Chirewa",
+                "club": "Wolverhampton Wanderers"
+            },
+            {
+                "name": "Knowledge Musona",
+                "club": "Scottland FC"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Bill Antonio",
+                "club": "KV Mechelen"
+            },
+            {
+                "name": "Ishmael Wadi",
+                "club": "CAPS United"
+            },
+            {
+                "name": "Tawanda Maswanhise",
+                "club": "Motherwell"
+            },
+            {
+                "name": "Daniel Msendami",
+                "club": "Marumo Gallants"
+            },
+            {
+                "name": "Prince Dube",
+                "club": "Young Africans"
+            },
+            {
+                "name": "Washington Navaya",
+                "club": "TelOne"
+            },
+            {
+                "name": "Macauley Bonne",
+                "club": "Maldon & Tiptree"
+            },
+            {
+                "name": "Junior Zindoga",
+                "club": "TS Galaxy"
+            },
+            {
+                "name": "Tadiwanasche Chakuchichi",
+                "club": "Scottland FC"
+            }
+        ]
+    }
+}

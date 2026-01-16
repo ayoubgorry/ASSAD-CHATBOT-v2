@@ -1,0 +1,125 @@
+{
+    "team": "Egypt",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Mohamed El-Shenawy",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Ahmed El-Shenawy",
+                "club": "Pyramids FC"
+            },
+            {
+                "name": "Mostafa Shobeir",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Mohamed Sobhi",
+                "club": "Zamalek"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Rami Rabia",
+                "club": "Al-Ain / United Arab Emirates"
+            },
+            {
+                "name": "Mohamed Hany",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Yasser Brahim",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Khaled Sobhi",
+                "club": "Al Masry"
+            },
+            {
+                "name": "Ahmed Eid",
+                "club": "Al Masry"
+            },
+            {
+                "name": "Hossam Abdelmaguid",
+                "club": "Zamalek"
+            },
+            {
+                "name": "Mohamed Ismail",
+                "club": "Zamalek"
+            },
+            {
+                "name": "Ahmed Fatouh",
+                "club": "Zamalek"
+            },
+            {
+                "name": "Mohamed Hamdy",
+                "club": "Al Ahly"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Marwan Attia",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Hamdy Fathi",
+                "club": "Al Wakrah"
+            },
+            {
+                "name": "Mohanad Lasheen",
+                "club": "Pyramids FC"
+            },
+            {
+                "name": "Mahmoud Saber",
+                "club": "Pyramids FC"
+            },
+            {
+                "name": "Mohamed Shehata",
+                "club": "Zamalek"
+            },
+            {
+                "name": "Emam Ashour",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Ahmed Sayed Zizo",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Mahmoud Trezeguet",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Ibrahim Adel",
+                "club": "Al Jazira"
+            },
+            {
+                "name": "Mostafa Fathi",
+                "club": "Pyramids FC"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Mohamed Salah",
+                "club": "Liverpool"
+            },
+            {
+                "name": "Omar Marmoush",
+                "club": "Manchester City"
+            },
+            {
+                "name": "Mostafa Mohamed",
+                "club": "FC Nantes"
+            },
+            {
+                "name": "Salah Mohsen",
+                "club": "Al Masry"
+            },
+            {
+                "name": "Osama Faisal",
+                "club": "Bank El Ahly"
+            }
+        ]
+    }
+}

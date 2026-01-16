@@ -1,0 +1,28 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 14",
+    "equipe_domicile": "Zambie",
+    "score": "0 - 0",
+    "equipe_exterieur": "Comores",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "status": "played",
+    "affluence": "7 829",
+    "arbitre": "Ahmad Imtehaz Heeralall Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Chanda",
+            "minute": "55",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Lahne",
+            "minute": "90+5",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

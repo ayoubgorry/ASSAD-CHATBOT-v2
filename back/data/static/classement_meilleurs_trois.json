@@ -1,0 +1,80 @@
+[
+    {
+        "Rang": "1",
+        "Equipe": "Mozambique",
+        "Groupe_Origine": "N/A",
+        "Pts": "3",
+        "Matchs_joues": "3",
+        "Gagnes": "1",
+        "Nuls": "0",
+        "Perdus": "2",
+        "Buts_pour": "4",
+        "Buts_contre": "5",
+        "Diff": "-1"
+    },
+    {
+        "Rang": "2",
+        "Equipe": "Bénin",
+        "Groupe_Origine": "N/A",
+        "Pts": "3",
+        "Matchs_joues": "3",
+        "Gagnes": "1",
+        "Nuls": "0",
+        "Perdus": "2",
+        "Buts_pour": "1",
+        "Buts_contre": "4",
+        "Diff": "-3"
+    },
+    {
+        "Rang": "3",
+        "Equipe": "Soudan",
+        "Groupe_Origine": "N/A",
+        "Pts": "3",
+        "Matchs_joues": "3",
+        "Gagnes": "1",
+        "Nuls": "0",
+        "Perdus": "2",
+        "Buts_pour": "1",
+        "Buts_contre": "5",
+        "Diff": "-4"
+    },
+    {
+        "Rang": "4",
+        "Equipe": "Tanzanie",
+        "Groupe_Origine": "N/A",
+        "Pts": "2",
+        "Matchs_joues": "3",
+        "Gagnes": "0",
+        "Nuls": "2",
+        "Perdus": "1",
+        "Buts_pour": "3",
+        "Buts_contre": "4",
+        "Diff": "-1"
+    },
+    {
+        "Rang": "5",
+        "Equipe": "Angola",
+        "Groupe_Origine": "N/A",
+        "Pts": "2",
+        "Matchs_joues": "3",
+        "Gagnes": "0",
+        "Nuls": "2",
+        "Perdus": "1",
+        "Buts_pour": "2",
+        "Buts_contre": "3",
+        "Diff": "-1"
+    },
+    {
+        "Rang": "6",
+        "Equipe": "Comores",
+        "Groupe_Origine": "N/A",
+        "Pts": "2",
+        "Matchs_joues": "3",
+        "Gagnes": "0",
+        "Nuls": "2",
+        "Perdus": "1",
+        "Buts_pour": "0",
+        "Buts_contre": "2",
+        "Diff": "-2"
+    }
+]

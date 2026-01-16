@@ -1,0 +1,61 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 24",
+    "date": "28 décembre 2025 13h30",
+    "equipe_domicile": "Gabon",
+    "score": "2 - 3",
+    "equipe_exterieur": "Mozambique",
+    "stade": "Stade Adrar,Agadir",
+    "buteurs_domicile": [
+        {
+            "joueur": "Aubameyang",
+            "minute": "45+5",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Moucketou-Moussounda",
+            "minute": "76",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Bangal",
+            "minute": "37",
+            "type": "penalty",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Catamo",
+            "minute": "42",
+            "type": "penalty",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Calila",
+            "minute": "52",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "E. Manga",
+            "minute": "39",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Poko",
+            "minute": "44",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "9 796",
+    "arbitre": "Mehrez Melki",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

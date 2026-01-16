@@ -1,0 +1,54 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 25",
+    "equipe_domicile": "Zambie",
+    "score": "0 - 3",
+    "equipe_exterieur": "Maroc",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "status": "played",
+    "affluence": "62 532",
+    "arbitre": "Issa Sy Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "El Kaabi",
+            "minute": "9",
+            "type": "normal"
+        },
+        {
+            "joueur": "Brahim",
+            "minute": "27",
+            "type": "normal"
+        },
+        {
+            "joueur": "El Kaabi",
+            "minute": "50",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Chaiwa",
+            "minute": "29",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Chongo",
+            "minute": "39",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mandanji",
+            "minute": "55",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Hamansenya",
+            "minute": "85",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

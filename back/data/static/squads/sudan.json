@@ -1,0 +1,121 @@
+{
+    "team": "Sudan",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Ali Aboeshren",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Mohamed Elnour Abooja",
+                "club": "Al-Merrikh SC"
+            },
+            {
+                "name": "Monged Elneel",
+                "club": "El-Merriekh FC Bentiu"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Mohamed Saaed",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Altayeb Abdelrazig",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Mustafa Karshom",
+                "club": "N/C"
+            },
+            {
+                "name": "Yasser Awad",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Bakhit Khamis",
+                "club": "Al Ahli Tripoli"
+            },
+            {
+                "name": "Mazin Mohamedein",
+                "club": "Al Akhdar"
+            },
+            {
+                "name": "Awad Zaid",
+                "club": "Al-Merrikh SC"
+            },
+            {
+                "name": "Ahmed Abdelmonem",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Mohamed Kesra",
+                "club": "Al-Merrikh SC"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Abuaagla Abdalla",
+                "club": "Al Ahly/Egypt"
+            },
+            {
+                "name": "Waliedin Khidhir",
+                "club": "Al Ahly"
+            },
+            {
+                "name": "Abdelrazig Omer",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Ammar Tayfour",
+                "club": "CS Sfax"
+            },
+            {
+                "name": "Salaheldin Adil",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "Musa Hussain",
+                "club": "Al-Merrikh SC/Rwanda"
+            },
+            {
+                "name": "Sheddy Ezeldin",
+                "club": "FC Den Bosch"
+            },
+            {
+                "name": "Amar Yunis",
+                "club": "Avondale FC/Australia"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Yasser Mozamil",
+                "club": "Al Hilal OMD/Rwanda"
+            },
+            {
+                "name": "Mohamed Abdelrhman",
+                "club": "Al Hilal OMD"
+            },
+            {
+                "name": "John Mano",
+                "club": "Al Ahli Tripoli"
+            },
+            {
+                "name": "Mohamed Eisa",
+                "club": "Uthai Thani FC"
+            },
+            {
+                "name": "Elgozoli Hussain",
+                "club": "Al-Merrikh SC"
+            },
+            {
+                "name": "Abobaker Eisa",
+                "club": "Chonburi FC"
+            },
+            {
+                "name": "Mohamed Teya",
+                "club": "Al-Merrikh SC"
+            }
+        ]
+    }
+}

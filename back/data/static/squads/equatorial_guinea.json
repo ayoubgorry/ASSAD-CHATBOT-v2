@@ -1,0 +1,129 @@
+{
+    "team": "Equatorial Guinea",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Jesus Owono",
+                "club": "FC Andorra"
+            },
+            {
+                "name": "Manuel Sapunga",
+                "club": "Sekhukhune"
+            },
+            {
+                "name": "Aitor Embela",
+                "club": "Lorca"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Esteban Orozco",
+                "club": "FC Arges"
+            },
+            {
+                "name": "Marvin Anieboh",
+                "club": "San Sebastian Reyes"
+            },
+            {
+                "name": "Carlos Akapo",
+                "club": "Amazonas"
+            },
+            {
+                "name": "Saul Coco",
+                "club": "Torino"
+            },
+            {
+                "name": "Basilio Ndong",
+                "club": "KF Tirana"
+            },
+            {
+                "name": "Michel Ngaah",
+                "club": "Real Avila CF"
+            },
+            {
+                "name": "Néstor Senra",
+                "club": "N/C"
+            },
+            {
+                "name": "Spain)",
+                "club": "N/C"
+            },
+            {
+                "name": "Charles Ondo",
+                "club": "Portland Timbers / USA"
+            },
+            {
+                "name": "Javier Mum",
+                "club": "Muza FC"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Jannick Buyla",
+                "club": "Numancia"
+            },
+            {
+                "name": "Omar Mascarell",
+                "club": "Mallorca"
+            },
+            {
+                "name": "Pablo Ganet",
+                "club": "Persita"
+            },
+            {
+                "name": "Alex Masogo",
+                "club": "Beroe"
+            },
+            {
+                "name": "Alex Balboa",
+                "club": "CD Lugo"
+            },
+            {
+                "name": "Jose Machin",
+                "club": "Monza"
+            },
+            {
+                "name": "Pedro Obiang",
+                "club": "Monza"
+            },
+            {
+                "name": "Santiago Eneme",
+                "club": "Sparta Prague"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Iban Salvador",
+                "club": "Wisla Plock"
+            },
+            {
+                "name": "Josete Miranda",
+                "club": "PS Kalamata"
+            },
+            {
+                "name": "Gael Akogo",
+                "club": "Recreativo Granada"
+            },
+            {
+                "name": "Joel Nabil",
+                "club": "Nantes II"
+            },
+            {
+                "name": "Luismi Nlavo",
+                "club": "Shanghai Shenhua"
+            },
+            {
+                "name": "Dorian Junior",
+                "club": "Viborg FF"
+            },
+            {
+                "name": "Loren Zuniga",
+                "club": "Real Madrid Castilla"
+            },
+            {
+                "name": "Emilio Nsue",
+                "club": "CF Intercity"
+            }
+        ]
+    }
+}

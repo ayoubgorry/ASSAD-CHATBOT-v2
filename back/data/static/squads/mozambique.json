@@ -1,0 +1,113 @@
+{
+    "team": "Mozambique",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Ernani Siluane",
+                "club": "Black Bulls"
+            },
+            {
+                "name": "Ivane Urrubal",
+                "club": "UD Songo"
+            },
+            {
+                "name": "Kimiss Zavala",
+                "club": "Maritimo"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Bruno Langa",
+                "club": "Paphos"
+            },
+            {
+                "name": "Oscar Cherene",
+                "club": "UD Songo"
+            },
+            {
+                "name": "Edmilson Dove",
+                "club": "Al-Quwa Al-Jawiya"
+            },
+            {
+                "name": "Nanani",
+                "club": "UD Songo"
+            },
+            {
+                "name": "Feliciano Jone",
+                "club": "Black Bulls"
+            },
+            {
+                "name": "Diogo Cabral",
+                "club": "Santa Clara"
+            },
+            {
+                "name": "Reinildo Mandava",
+                "club": "Sunderland"
+            },
+            {
+                "name": "Mexer",
+                "club": "Keciorengucu"
+            },
+            {
+                "name": "Fernando Chambuco",
+                "club": "Black Bulls"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Joao Bonde",
+                "club": "Ferroviario"
+            },
+            {
+                "name": "Ricardo Guimaraes",
+                "club": "Zira FK"
+            },
+            {
+                "name": "Manuel Kambala",
+                "club": "Polokwane City"
+            },
+            {
+                "name": "Keyns Abdala",
+                "club": "Chaves"
+            },
+            {
+                "name": "Alfonso Amade",
+                "club": "Dunfermline"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Geny Catamo",
+                "club": "Sporting CP"
+            },
+            {
+                "name": "Witness Quembo",
+                "club": "CD Nacional"
+            },
+            {
+                "name": "Elias Pelembe",
+                "club": "UD Songo"
+            },
+            {
+                "name": "Chamito Alfandega",
+                "club": "AC Viseu U23"
+            },
+            {
+                "name": "Stanley Ratifo",
+                "club": "Chemie Leipzig"
+            },
+            {
+                "name": "Faisal Bangal",
+                "club": "Mestre"
+            },
+            {
+                "name": "Melque Alexandre",
+                "club": "UD Songo"
+            },
+            {
+                "name": "Gildo Vilanculos",
+                "club": "Tadamon Sour"
+            }
+        ]
+    }
+}

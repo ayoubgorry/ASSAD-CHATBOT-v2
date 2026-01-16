@@ -1,0 +1,65 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 33",
+    "date": "31 décembre 2025 17h00",
+    "equipe_domicile": "Guinée équatoriale",
+    "score": "1 - 3",
+    "equipe_exterieur": "Algérie",
+    "stade": "Stade Moulay Hassan,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Emilio Nsue",
+            "minute": "50",
+            "type": "normal",
+            "passe_decisive": "Balboa"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Belaïd",
+            "minute": "19",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Chaïbi",
+            "minute": "25",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Maza",
+            "minute": "32",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Salvador",
+            "minute": "54",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Ganet",
+            "minute": "83",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Akogo",
+            "minute": "83",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Anieboh",
+            "minute": "89",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "15 187",
+    "arbitre": "Pacifique Ndabihawenimana",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

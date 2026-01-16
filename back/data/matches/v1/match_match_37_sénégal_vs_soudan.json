@@ -1,0 +1,61 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 37",
+    "date": "3 janvier 2026 17h00",
+    "equipe_domicile": "Sénégal",
+    "score": "3 - 1",
+    "equipe_exterieur": "Soudan",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "buteurs_domicile": [
+        {
+            "joueur": "Gueye",
+            "minute": "29",
+            "type": "normal",
+            "passe_decisive": "Mané"
+        },
+        {
+            "joueur": "Gueye",
+            "minute": "45+3",
+            "type": "normal",
+            "passe_decisive": "Jackson"
+        },
+        {
+            "joueur": "Mbaye",
+            "minute": "77",
+            "type": "normal",
+            "passe_decisive": "Mané"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Abdallah",
+            "minute": "6",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Jakobs",
+            "minute": "13",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Jackson",
+            "minute": "50",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Barglan",
+            "minute": "85",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "30 045",
+    "arbitre": "Dahane Beida",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

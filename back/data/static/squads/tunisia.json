@@ -1,0 +1,125 @@
+{
+    "team": "Tunisia",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Aymen Dahmen",
+                "club": "CS Sfaxien"
+            },
+            {
+                "name": "Bechir Ben Said",
+                "club": "ES Tunis"
+            },
+            {
+                "name": "Noureddine Farhati",
+                "club": "Stade Tunisien"
+            },
+            {
+                "name": "Sabri Ben Hassen",
+                "club": "ES Sahel"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Yassine Meriah",
+                "club": "ES Tunis"
+            },
+            {
+                "name": "Montassar Talbi",
+                "club": "Lorient"
+            },
+            {
+                "name": "Dylan Bronn",
+                "club": "Servette"
+            },
+            {
+                "name": "Adem Arous",
+                "club": "Kasimpasa"
+            },
+            {
+                "name": "Nader Ghandri",
+                "club": "Akhmat Grozny"
+            },
+            {
+                "name": "Mohamed Ben Ali",
+                "club": "ES Tunis"
+            },
+            {
+                "name": "Yan Valery",
+                "club": "Sheffield Wednesday"
+            },
+            {
+                "name": "Ali Abdi",
+                "club": "Nice"
+            },
+            {
+                "name": "Mortadha Ben Ouanes",
+                "club": "Kasimpasa"
+            },
+            {
+                "name": "Ali Maaloul",
+                "club": "CS Sfaxien"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Ellyes Skhiri",
+                "club": "Eintracht Frankfurt"
+            },
+            {
+                "name": "Houssem Tka",
+                "club": "ES Tunis"
+            },
+            {
+                "name": "Ferjani Sassi",
+                "club": "Al-Gharafa SC"
+            },
+            {
+                "name": "Ismael Gharbi",
+                "club": "FC Augsburg"
+            },
+            {
+                "name": "Mohamed Belhadj Mahmoud",
+                "club": "FC Lugano"
+            },
+            {
+                "name": "Mohamed Ali Ben Romdhane",
+                "club": "Al Ahly FC"
+            },
+            {
+                "name": "Hannibal Mejbri",
+                "club": "Burnley"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Elias Saad",
+                "club": "FC Augsburg"
+            },
+            {
+                "name": "Elias Achouri",
+                "club": "FC Copenhagen"
+            },
+            {
+                "name": "Sebastian Tounekti",
+                "club": "Celtic"
+            },
+            {
+                "name": "Firas Chaouat",
+                "club": "Club Africain"
+            },
+            {
+                "name": "Hazem Mastouri",
+                "club": "Dinamo Makhachkala"
+            },
+            {
+                "name": "Seifeddine Jaziri",
+                "club": "Zamalek SC"
+            },
+            {
+                "name": "Naim Sliti",
+                "club": "Al-Shamal SC"
+            }
+        ]
+    }
+}

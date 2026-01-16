@@ -1,0 +1,56 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 6",
+    "date": "23 décembre 2025 21h00",
+    "equipe_domicile": "Tunisie",
+    "score": "3 - 1",
+    "equipe_exterieur": "Ouganda",
+    "stade": "Stade olympique de Rabat,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Skhiri",
+            "minute": "10",
+            "type": "normal",
+            "passe_decisive": "Mejbri"
+        },
+        {
+            "joueur": "Achouri",
+            "minute": "40",
+            "type": "normal",
+            "passe_decisive": "Abdi"
+        },
+        {
+            "joueur": "Achouri",
+            "minute": "64",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Omedi",
+            "minute": "90+2",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Saad",
+            "minute": "50",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Kayondo",
+            "minute": "71",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "13 387",
+    "arbitre": "Tanguy Patrice Mebiame",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:06"
+}

@@ -1,0 +1,70 @@
+{
+    "phase": "Phase à élimination directe",
+    "etape": "Huitièmes de finale",
+    "match_n": "Match 40",
+    "date": "4 janvier 2026 20h00",
+    "equipe_domicile": "Afrique du Sud",
+    "score": "1 -  2",
+    "equipe_exterieur": "Cameroun",
+    "stade": "Stade El Madina,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Makgopa",
+            "minute": "88",
+            "type": "normal",
+            "passe_decisive": "Modiba"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Tchamadeu",
+            "minute": "34",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Kofane",
+            "minute": "47",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Ngezana",
+            "minute": "32",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Sibisi",
+            "minute": "59",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Modiba",
+            "minute": "65",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mokoena",
+            "minute": "72",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Foster",
+            "minute": "83",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Tolo",
+            "minute": "87",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "14 127",
+    "arbitre": "Peter Waweru Kamaku",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

@@ -1,0 +1,40 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 5",
+    "equipe_domicile": "Nigeria",
+    "score": "2 - 1",
+    "equipe_exterieur": "Tanzanie",
+    "stade": "Complexe sportif de Fès,Fès",
+    "status": "played",
+    "affluence": "11 444",
+    "arbitre": "Dahane Beida Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Ajayi",
+            "minute": "36",
+            "type": "normal"
+        },
+        {
+            "joueur": "Lookman",
+            "minute": "52",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "M",
+            "minute": "50",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Lookman",
+            "minute": "58",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": []
+}

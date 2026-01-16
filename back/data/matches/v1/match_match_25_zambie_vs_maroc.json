@@ -1,0 +1,58 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 25",
+    "date": "29 décembre 2025 20h00",
+    "equipe_domicile": "Zambie",
+    "score": "0 - 3",
+    "equipe_exterieur": "Maroc",
+    "stade": "Stade Prince Moulay Abdellah,Rabat",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "El Kaabi",
+            "minute": "9",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "Brahim",
+            "minute": "27",
+            "type": "normal",
+            "passe_decisive": null
+        },
+        {
+            "joueur": "El Kaabi",
+            "minute": "50",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Chaiwa",
+            "minute": "29",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Chongo",
+            "minute": "39",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mandanji",
+            "minute": "55",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Hamansenya",
+            "minute": "85",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "62 532",
+    "arbitre": "Issa Sy",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

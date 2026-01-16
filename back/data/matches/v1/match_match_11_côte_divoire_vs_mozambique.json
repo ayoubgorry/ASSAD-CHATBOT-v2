@@ -1,0 +1,37 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe F",
+    "match_n": "Match 11",
+    "date": "24 décembre 2025 18h30",
+    "equipe_domicile": "Côte d'Ivoire",
+    "score": "1 - 0",
+    "equipe_exterieur": "Mozambique",
+    "stade": "Stade de Marrakech,Marrakech",
+    "buteurs_domicile": [
+        {
+            "joueur": "Amad",
+            "minute": "49",
+            "type": "normal",
+            "passe_decisive": "Kessié"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Diomandé",
+            "minute": "80",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Witi",
+            "minute": "55",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "13 041",
+    "arbitre": "Samuel Uwikunda",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:04"
+}

@@ -1,0 +1,38 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe A",
+    "match_n": "Match 2",
+    "date": "22 décembre 2025 15h00",
+    "equipe_domicile": "Mali",
+    "score": "1 - 1",
+    "equipe_exterieur": "Zambie",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "buteurs_domicile": [
+        {
+            "joueur": "Sinayoko",
+            "minute": "61",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Daka",
+            "minute": "90+2",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Dieng",
+            "minute": "65",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "10 124",
+    "arbitre": "Omar Abdulkadir Artan",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

@@ -1,0 +1,51 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 6",
+    "equipe_domicile": "Tunisie",
+    "score": "3 - 1",
+    "equipe_exterieur": "Ouganda",
+    "stade": "Stade olympique de Rabat,Rabat",
+    "status": "played",
+    "affluence": "13 387",
+    "arbitre": "Tanguy Patrice Mebiame Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [
+        {
+            "joueur": "Skhiri",
+            "minute": "10",
+            "type": "normal"
+        },
+        {
+            "joueur": "Achouri",
+            "minute": "40",
+            "type": "normal"
+        },
+        {
+            "joueur": "Achouri",
+            "minute": "64",
+            "type": "normal"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Omedi",
+            "minute": "90+2",
+            "type": "normal"
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Saad",
+            "minute": "50",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Kayondo",
+            "minute": "71",
+            "type": "jaune"
+        }
+    ]
+}

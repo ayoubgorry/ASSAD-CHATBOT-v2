@@ -1,0 +1,242 @@
+[
+    {
+        "Equipe": "Maroc",
+        "Methode_qualification": "1 er du groupe B , Pays hôte",
+        "Date_qualification": "27 septembre 2023",
+        "Participation": "20e",
+        "Premiere_participation": "1972",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1976 )",
+        "Apparitions_precedentes": "19 ( 1972 , 1976 , 1978 , 1980 , 1986 , 1988 , 1992 , 1998 , 2000 , 2002 , 2004 , 2006 , 2008 , 2012 , 2013 , 2017 , 2019 , 2021 , 2023 )"
+    },
+    {
+        "Equipe": "Burkina Faso",
+        "Methode_qualification": "2 e du groupe L",
+        "Date_qualification": "13 octobre 2024",
+        "Participation": "14e",
+        "Premiere_participation": "1978",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Finaliste ( 2013 )",
+        "Apparitions_precedentes": "13 (1978, 1996, 1998 , 2000, 2002, 2004, 2010, 2012, 2013, 2015, 2017, 2021, 2023)"
+    },
+    {
+        "Equipe": "Cameroun",
+        "Methode_qualification": "1 er du groupe J",
+        "Date_qualification": "14 octobre 2024",
+        "Participation": "22e",
+        "Premiere_participation": "1970",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1984 , 1988 , 2000 , 2002 , 2017 )",
+        "Apparitions_precedentes": "21 ( 1970 , 1972 , 1982 , 1984 , 1986 , 1988 , 1990 , 1992 , 1996 , 1998 , 2000 , 2002 , 2004 , 2006 , 2008 , 2010 , 2015 , 2017 , 2019 , 2021 , 2023 )"
+    },
+    {
+        "Equipe": "Algérie",
+        "Methode_qualification": "1 er du groupe E",
+        "Date_qualification": "14 octobre 2024",
+        "Participation": "21e",
+        "Premiere_participation": "1968",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1990 , 2019 )",
+        "Apparitions_precedentes": "20 ( 1968 , 1980 , 1982 , 1984 , 1986 , 1988 , 1990 , 1992 , 1996 , 1998 , 2000 , 2002 , 2004 , 2010 , 2013 , 2015 , 2017 , 2019 , 2021 , 2023 )"
+    },
+    {
+        "Equipe": "RD Congo",
+        "Methode_qualification": "1 er du groupe H",
+        "Date_qualification": "15 octobre 2024",
+        "Participation": "21e",
+        "Premiere_participation": "1965",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1968 , 1974 )",
+        "Apparitions_precedentes": "20 ( 1968 , 1970 , 1972 , 1974 , 1976 , 1988 , 1992 , 1994 , 1996 , 1998 , 2000 , 2002 , 2004 , 2006 , 2013 , 2015 , 2017 , 2019 , 2021 , 2023 )"
+    },
+    {
+        "Equipe": "Sénégal",
+        "Methode_qualification": "1 er du groupe L",
+        "Date_qualification": "15 octobre 2024",
+        "Participation": "18e",
+        "Premiere_participation": "1965",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 2021 )",
+        "Apparitions_precedentes": "17 (1965, 1968, 1986, 1990, 1992, 1994, 2000, 2002, 2004, 2006, 2008, 2012, 2015, 2017, 2019, 2021 , 2023)"
+    },
+    {
+        "Equipe": "Égypte",
+        "Methode_qualification": "1 er du groupe C",
+        "Date_qualification": "15 octobre 2024",
+        "Participation": "27e",
+        "Premiere_participation": "1957",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1957 , 1959 , 1986 , 1998 , 2006 , 2008 , 2010 )",
+        "Apparitions_precedentes": "26 ( 1957 , 1959 , 1962, 1963, 1970, 1974, 1976, 1980, 1984, 1986 , 1988, 1990, 1992, 1994, 1996, 1998 , 2000, 2002, 2004, 2006 , 2008 , 2010 , 2017, 2019 , 2021, 2023)"
+    },
+    {
+        "Equipe": "Angola",
+        "Methode_qualification": "1 er du groupe F",
+        "Date_qualification": "15 octobre 2024",
+        "Participation": "10e",
+        "Premiere_participation": "1996",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Quarts de finale ( 2008 , 2010 , 2023 )",
+        "Apparitions_precedentes": "9 (1996, 1998, 2006, 2008, 2010 , 2012, 2013, 2019, 2023)"
+    },
+    {
+        "Equipe": "Guinée équatoriale",
+        "Methode_qualification": "2 e du groupe E",
+        "Date_qualification": "13 novembre 2024",
+        "Participation": "5e",
+        "Premiere_participation": "2012",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Quatrième ( 2015 )",
+        "Apparitions_precedentes": "4 ( 2012 , 2015 , 2021, 2023)"
+    },
+    {
+        "Equipe": "Côte d'Ivoire",
+        "Methode_qualification": "2 e du groupe G",
+        "Date_qualification": "13 novembre 2024",
+        "Participation": "26e",
+        "Premiere_participation": "1965",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1992 , 2015 , 2023 )",
+        "Apparitions_precedentes": "25 (1965, 1968, 1970, 1974, 1980, 1984 , 1986, 1988, 1990, 1992 , 1994, 1996, 1998, 2000, 2002, 2006, 2008, 2010, 2012, 2013, 2015 , 2017, 2019, 2021, 2023 )"
+    },
+    {
+        "Equipe": "Gabon",
+        "Methode_qualification": "2 e du groupe B",
+        "Date_qualification": "14 novembre 2024",
+        "Participation": "9e",
+        "Premiere_participation": "1994",
+        "Derniere_participation": "2021",
+        "Meilleur_resultat": "Quarts de finale ( 1996 , 2012 )",
+        "Apparitions_precedentes": "8 (1994, 1996, 2000, 2010, 2012, 2015, 2017, 2021)"
+    },
+    {
+        "Equipe": "Ouganda",
+        "Methode_qualification": "2 e du groupe K",
+        "Date_qualification": "14 novembre 2024",
+        "Participation": "8e",
+        "Premiere_participation": "1962",
+        "Derniere_participation": "2019",
+        "Meilleur_resultat": "Finaliste ( 1978 )",
+        "Apparitions_precedentes": "7 (1962, 1968, 1974, 1976, 1978, 2017, 2019)"
+    },
+    {
+        "Equipe": "Afrique du Sud",
+        "Methode_qualification": "1 er du groupe K",
+        "Date_qualification": "14 novembre 2024",
+        "Participation": "12e",
+        "Premiere_participation": "1996",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1996 )",
+        "Apparitions_precedentes": "11 ( 1996 , 1998, 2000, 2002, 2004, 2006, 2008, 2013, 2015, 2019, 2023)"
+    },
+    {
+        "Equipe": "Tunisie",
+        "Methode_qualification": "2 e du groupe A",
+        "Date_qualification": "14 novembre 2024",
+        "Participation": "22e",
+        "Premiere_participation": "1962",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 2004 )",
+        "Apparitions_precedentes": "21 (1962, 1963, 1965 , 1978, 1982, 1994 , 1996, 1998, 2000, 2002, 2004 , 2006, 2008, 2010, 2012, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+        "Equipe": "Nigeria",
+        "Methode_qualification": "1 er du groupe D",
+        "Date_qualification": "14 novembre 2024",
+        "Participation": "21e",
+        "Premiere_participation": "1963",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 1980 , 1994 , 2013 )",
+        "Apparitions_precedentes": "20 (1963, 1976, 1978, 1980 , 1982, 1984, 1988, 1990, 1992, 1994 , 2000 , 2002, 2004, 2006, 2008, 2010, 2013 , 2019, 2021, 2023)"
+    },
+    {
+        "Equipe": "Mali",
+        "Methode_qualification": "1 er du groupe I",
+        "Date_qualification": "15 novembre 2024",
+        "Participation": "14e",
+        "Premiere_participation": "1963",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Finaliste ( 1972 )",
+        "Apparitions_precedentes": "13 (1972, 1994, 2002 , 2004, 2008, 2010, 2012, 2013, 2015, 2017, 2019, 2021, 2023)"
+    },
+    {
+        "Equipe": "Zambie",
+        "Methode_qualification": "1 er du groupe G",
+        "Date_qualification": "15 novembre 2024",
+        "Participation": "19e",
+        "Premiere_participation": "1974",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Vainqueur ( 2012 )",
+        "Apparitions_precedentes": "18 (1974, 1978, 1982, 1986, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2006, 2008, 2010, 2012 , 2013, 2015, 2023)"
+    },
+    {
+        "Equipe": "Zimbabwe",
+        "Methode_qualification": "2 e du groupe J",
+        "Date_qualification": "15 novembre 2024",
+        "Participation": "6e",
+        "Premiere_participation": "2004",
+        "Derniere_participation": "2021",
+        "Meilleur_resultat": "Premier tour ( 2004 , 2006 , 2017 , 2019 , 2021 )",
+        "Apparitions_precedentes": "5 (2004, 2006, 2017, 2019, 2021)"
+    },
+    {
+        "Equipe": "Comores",
+        "Methode_qualification": "1 er du groupe A",
+        "Date_qualification": "15 novembre 2024",
+        "Participation": "2e",
+        "Premiere_participation": "2021",
+        "Derniere_participation": "2021",
+        "Meilleur_resultat": "Huitièmes de finale ( 2021 )",
+        "Apparitions_precedentes": "1 (2021)"
+    },
+    {
+        "Equipe": "Soudan",
+        "Methode_qualification": "2 e du groupe F",
+        "Date_qualification": "18 novembre 2024",
+        "Participation": "10e",
+        "Premiere_participation": "1957",
+        "Derniere_participation": "2021",
+        "Meilleur_resultat": "Vainqueur ( 1970 )",
+        "Apparitions_precedentes": "9 (1957, 1959, 1963, 1970 , 1972, 1976, 2008, 2012, 2021)"
+    },
+    {
+        "Equipe": "Bénin",
+        "Methode_qualification": "2 e du groupe D",
+        "Date_qualification": "18 novembre 2024",
+        "Participation": "5e",
+        "Premiere_participation": "2004",
+        "Derniere_participation": "2019",
+        "Meilleur_resultat": "Quarts de finale ( 2019 )",
+        "Apparitions_precedentes": "4 (2004, 2008, 2010, 2019)"
+    },
+    {
+        "Equipe": "Tanzanie",
+        "Methode_qualification": "2 e du groupe H",
+        "Date_qualification": "19 novembre 2024",
+        "Participation": "4e",
+        "Premiere_participation": "1980",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Premier tour ( 1980 , 2019 , 2023 )",
+        "Apparitions_precedentes": "3 (1980, 2019, 2023)"
+    },
+    {
+        "Equipe": "Botswana",
+        "Methode_qualification": "2 e du groupe C",
+        "Date_qualification": "19 novembre 2024",
+        "Participation": "2e",
+        "Premiere_participation": "2012",
+        "Derniere_participation": "2012",
+        "Meilleur_resultat": "Premier tour ( 2012 )",
+        "Apparitions_precedentes": "1 (2012)"
+    },
+    {
+        "Equipe": "Mozambique",
+        "Methode_qualification": "2 e du groupe I",
+        "Date_qualification": "19 novembre 2024",
+        "Participation": "6e",
+        "Premiere_participation": "1986",
+        "Derniere_participation": "2023",
+        "Meilleur_resultat": "Premier tour ( 1986 , 1996 , 1998 , 2010 , 2023 )",
+        "Apparitions_precedentes": "5 (1986, 1996, 1998, 2010, 2023)"
+    }
+]

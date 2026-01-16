@@ -1,0 +1,125 @@
+{
+    "team": "Algeria",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Oussama Benbot",
+                "club": "USM Alger"
+            },
+            {
+                "name": "Anthony Mandrea",
+                "club": "SM Caen"
+            },
+            {
+                "name": "Luca Zidane",
+                "club": "Granada"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Rayan Ait-Nouri",
+                "club": "Manchester City"
+            },
+            {
+                "name": "Rafik Belghali",
+                "club": "Hellas Verona"
+            },
+            {
+                "name": "Youcef Atal",
+                "club": "Al Saad"
+            },
+            {
+                "name": "Mehdi Dorval",
+                "club": "Bari"
+            },
+            {
+                "name": "Aissa Mandi",
+                "club": "Lille"
+            },
+            {
+                "name": "Samir Chergui",
+                "club": "Paris FC"
+            },
+            {
+                "name": "Mohamed Tougai",
+                "club": "ES Tunis"
+            },
+            {
+                "name": "Ramy Bensebaini",
+                "club": "Dortmund"
+            },
+            {
+                "name": "Zinedine Belaid",
+                "club": "US Kabylie"
+            },
+            {
+                "name": "Jaouen Hadjam",
+                "club": "Young Boys"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Ismael Bennacer",
+                "club": "Dinamo Zagreb"
+            },
+            {
+                "name": "Ramiz Zerrouki",
+                "club": "FC Twente"
+            },
+            {
+                "name": "Hicham Boudaoui",
+                "club": "Nice"
+            },
+            {
+                "name": "Fares Chaibi",
+                "club": "Eintracht Frankfurt"
+            },
+            {
+                "name": "Houssem Aouar",
+                "club": "Al Ittihad"
+            },
+            {
+                "name": "Ibrahim Maza",
+                "club": "Bayer Leverkusen"
+            },
+            {
+                "name": "Adem Zorgane",
+                "club": "Royale Union Saint-Gilloise"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Mohamed Amoura",
+                "club": "Wolfsburg"
+            },
+            {
+                "name": "Baghdad Bounedjah",
+                "club": "Al Shamal"
+            },
+            {
+                "name": "Adil Boulbina",
+                "club": "Al Duhail"
+            },
+            {
+                "name": "Moncef Bakrar",
+                "club": "Dinamo Zagreb"
+            },
+            {
+                "name": "Redouane Berkane",
+                "club": "Al Wakrah"
+            },
+            {
+                "name": "Anis Hadj Moussa",
+                "club": "Feyenoord"
+            },
+            {
+                "name": "Ilan Kebbal",
+                "club": "Paris FC"
+            },
+            {
+                "name": "Riyad Mahrez",
+                "club": "Al Ahli"
+            }
+        ]
+    }
+}

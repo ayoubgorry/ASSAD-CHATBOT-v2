@@ -1,0 +1,85 @@
+# Python
+back/data/matches/latest
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.iml
+
+# Node.js / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build
+/front/build
+/front/dist
+.next
+out
+
+# Logs
+*.log
+*.log.*
+
+# Vector database and large files
+vectordb/faiss_v1/
+vectordb/faiss_v2/
+vectordb/matches/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data (optionally, if not needed in version control)
+# data/matches/
+# data/static/

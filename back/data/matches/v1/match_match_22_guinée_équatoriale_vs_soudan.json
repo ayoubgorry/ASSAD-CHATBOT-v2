@@ -1,0 +1,47 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe E",
+    "match_n": "Match 22",
+    "date": "28 décembre 2025 16h00",
+    "equipe_domicile": "Guinée équatoriale",
+    "score": "0 - 1",
+    "equipe_exterieur": "Soudan",
+    "stade": "Stade Mohammed-V,Casablanca",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Coco",
+            "minute": "74",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Machín",
+            "minute": "45+3",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Akapo",
+            "minute": "87",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Khidir",
+            "minute": "41",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Barglan",
+            "minute": "72",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "8 671",
+    "arbitre": "Messie Nkounkou",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

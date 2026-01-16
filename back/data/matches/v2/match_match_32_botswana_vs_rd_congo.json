@@ -1,0 +1,33 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 32",
+    "equipe_domicile": "Botswana",
+    "score": "0 - 3",
+    "equipe_exterieur": "RD Congo",
+    "stade": "Stade El Madina,Rabat",
+    "status": "played",
+    "affluence": "12 569",
+    "arbitre": "Ahmed Imtehaz Heerallal Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Mbuku",
+            "minute": "31",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Kakuta",
+            "minute": "41",
+            "type": "penalty"
+        },
+        {
+            "joueur": "Kakuta",
+            "minute": "60",
+            "type": "penalty"
+        }
+    ],
+    "cartons_domicile": [],
+    "cartons_exterieur": []
+}

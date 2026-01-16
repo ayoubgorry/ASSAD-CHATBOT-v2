@@ -1,0 +1,92 @@
+{
+    "team": "Nigeria",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Stanley Nwabali",
+                "club": "Chippa Utd"
+            },
+            {
+                "name": "Amas Obasogie",
+                "club": "Singida Black Stars"
+            },
+            {
+                "name": "Francis Uzoho",
+                "club": "Omonia"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Calvin Bassey",
+                "club": "Fulham"
+            },
+            {
+                "name": "Semi Ajayi",
+                "club": "Hull City"
+            },
+            {
+                "name": "Bright Osayi-Samuel",
+                "club": "Birmingham City"
+            },
+            {
+                "name": "Bruno Onyemaechi",
+                "club": "Olympiacos"
+            },
+            {
+                "name": "Chidozie Awaziem",
+                "club": "Nantes"
+            },
+            {
+                "name": "Zaidu Sanusi",
+                "club": "Porto"
+            },
+            {
+                "name": "Igoh Ogbu",
+                "club": "N/C"
+            },
+            {
+                "name": "Ryan Alebiosu",
+                "club": "Blackburn Rovers"
+            }
+        ],
+        "midfielders": [],
+        "forwards": [
+            {
+                "name": "Chidera Ejuke",
+                "club": "Sevilla"
+            },
+            {
+                "name": "Akor Adams",
+                "club": "Sevilla"
+            },
+            {
+                "name": "Ademola Lookman",
+                "club": "Atalanta"
+            },
+            {
+                "name": "Samuel Chukwueze",
+                "club": "Fulham"
+            },
+            {
+                "name": "Victor Osimhen",
+                "club": "Galatasaray"
+            },
+            {
+                "name": "Moses Simon",
+                "club": "Paris FC"
+            },
+            {
+                "name": "Paul Onuachu",
+                "club": "Trabzonspor"
+            },
+            {
+                "name": "Cyriel Dessers",
+                "club": "Panathinaikos"
+            },
+            {
+                "name": "Salim Fago Lawal",
+                "club": "Istra 1961"
+            }
+        ]
+    }
+}

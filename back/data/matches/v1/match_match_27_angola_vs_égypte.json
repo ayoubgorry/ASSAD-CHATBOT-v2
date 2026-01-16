@@ -1,0 +1,30 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe B",
+    "match_n": "Match 27",
+    "date": "29 décembre 2025 17h00",
+    "equipe_domicile": "Angola",
+    "score": "0 - 0",
+    "equipe_exterieur": "Égypte",
+    "stade": "Stade Adrar,Agadir",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Banza",
+            "minute": "27",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Adel",
+            "minute": "70",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "16 090",
+    "arbitre": "Clément Franklin Kpan",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

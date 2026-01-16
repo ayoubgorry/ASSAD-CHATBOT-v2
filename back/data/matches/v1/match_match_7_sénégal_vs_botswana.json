@@ -1,0 +1,49 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe D",
+    "match_n": "Match 7",
+    "date": "23 décembre 2025 16h00",
+    "equipe_domicile": "Sénégal",
+    "score": "3 - 0",
+    "equipe_exterieur": "Botswana",
+    "stade": "Stade Ibn-Batouta,Tanger",
+    "buteurs_domicile": [
+        {
+            "joueur": "Jackson",
+            "minute": "40",
+            "type": "normal",
+            "passe_decisive": "Jakobs"
+        },
+        {
+            "joueur": "Jackson",
+            "minute": "58",
+            "type": "normal",
+            "passe_decisive": "Sarr"
+        },
+        {
+            "joueur": "Ndiaye",
+            "minute": "90",
+            "type": "normal",
+            "passe_decisive": "Sabaly"
+        }
+    ],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Diatta",
+            "minute": "44",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Mohutsiwa",
+            "minute": "51",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "18 591",
+    "arbitre": "Abdelaziz Bouh",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:06"
+}

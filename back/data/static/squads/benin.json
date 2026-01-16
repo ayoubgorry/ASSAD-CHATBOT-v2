@@ -1,0 +1,125 @@
+{
+    "team": "Benin",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Marcel Dandjinou",
+                "club": "Loto"
+            },
+            {
+                "name": "Kassifa Saturnin Allagbe",
+                "club": "Chaurey"
+            },
+            {
+                "name": "Serge Obassa",
+                "club": "Remo Stars"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Samadou Attidjikou",
+                "club": "Smouha"
+            },
+            {
+                "name": "Charlemagne Azongnitode",
+                "club": "Oulu"
+            },
+            {
+                "name": "Rodrigue Fassinnou",
+                "club": "Coton FC"
+            },
+            {
+                "name": "David Kiki",
+                "club": "FCSB"
+            },
+            {
+                "name": "Rachid Moumini",
+                "club": "Sumqayit FK"
+            },
+            {
+                "name": "Tamimou Ouorou",
+                "club": "no club"
+            },
+            {
+                "name": "Yohan Roche",
+                "club": "Petrolul"
+            },
+            {
+                "name": "Mohamed Tijani",
+                "club": "Yverdon"
+            },
+            {
+                "name": "Olivier Verdon",
+                "club": "Ludogorets"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Mattéo Ahlinvi",
+                "club": "Arsenal / England"
+            },
+            {
+                "name": "Mariano Ahouangbo",
+                "club": "NK Olimpija Ljubljana / Slovenia"
+            },
+            {
+                "name": "Ghislain Ahoudo",
+                "club": "AS Gabes"
+            },
+            {
+                "name": "Sessi d'Almeida",
+                "club": "Neftci Baku / Azerbaijan"
+            },
+            {
+                "name": "Dodo Dokou",
+                "club": "Leixoes"
+            },
+            {
+                "name": "Imourane Hassane",
+                "club": "Grasshoppers"
+            },
+            {
+                "name": "Rodrigue Kossi",
+                "club": "Agadir"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Adam Akimey",
+                "club": "Helsingborgs IF"
+            },
+            {
+                "name": "Rodolfo Aloko",
+                "club": "Kustosija"
+            },
+            {
+                "name": "Romaric Amoussou",
+                "club": "Asec Mimosas"
+            },
+            {
+                "name": "Jodel Dossou",
+                "club": "L'US Pays du Valois"
+            },
+            {
+                "name": "Steve Mounie",
+                "club": "Alanyaspor"
+            },
+            {
+                "name": "Junior Olaitan",
+                "club": "Goztepe"
+            },
+            {
+                "name": "Razack Rachidou",
+                "club": "Kustosija"
+            },
+            {
+                "name": "Olatoundji Tessilimi",
+                "club": "SJK Seinajoki"
+            },
+            {
+                "name": "Aiyegun Tosin",
+                "club": "Lorient"
+            }
+        ]
+    }
+}

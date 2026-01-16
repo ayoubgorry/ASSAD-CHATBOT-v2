@@ -1,0 +1,48 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe C",
+    "match_n": "Match 30",
+    "date": "30 décembre 2025 17h00",
+    "equipe_domicile": "Tanzanie",
+    "score": "1 - 1",
+    "equipe_exterieur": "Tunisie",
+    "stade": "Stade olympique de Rabat,Rabat",
+    "buteurs_domicile": [
+        {
+            "joueur": "Salum",
+            "minute": "48",
+            "type": "normal",
+            "passe_decisive": "Miroshi"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Gharbi",
+            "minute": "43",
+            "type": "penalty",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Hamad",
+            "minute": "41",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Mwamnyeto",
+            "minute": "57",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Msuva",
+            "minute": "59",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [],
+    "affluence": "15 205",
+    "arbitre": "Jean-Jacques Ndala",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:05"
+}

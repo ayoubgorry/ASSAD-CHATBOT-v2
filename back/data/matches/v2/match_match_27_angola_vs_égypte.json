@@ -1,0 +1,29 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe B",
+    "match_n": "Match 27",
+    "equipe_domicile": "Angola",
+    "score": "0 - 0",
+    "equipe_exterieur": "Égypte",
+    "stade": "Stade Adrar,Agadir",
+    "status": "played",
+    "affluence": "16 090",
+    "arbitre": "Clément Franklin Kpan Arbitre vidéo",
+    "last_update": "16/01/2026 18:29:56",
+    "buteurs_domicile": [],
+    "buteurs_exterieur": [],
+    "cartons_domicile": [
+        {
+            "joueur": "Banza",
+            "minute": "27",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Adel",
+            "minute": "70",
+            "type": "jaune"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "team": "Cote D'Ivoire",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Yahia Fofana",
+                "club": "Caykur Rizespor"
+            },
+            {
+                "name": "Mohamed Kone",
+                "club": "Charleroi"
+            },
+            {
+                "name": "Alban Lafont",
+                "club": "Panathinaikos"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Emmanuel Agbadou",
+                "club": "Wolves"
+            },
+            {
+                "name": "Willy Boly",
+                "club": "Nottingham Forest"
+            },
+            {
+                "name": "Ousmane Diomande",
+                "club": "Sporting CP"
+            },
+            {
+                "name": "Guela Doue",
+                "club": "Strasbourg"
+            },
+            {
+                "name": "Ghislain Konan",
+                "club": "Gil Vicente"
+            },
+            {
+                "name": "Odilon Kossounou",
+                "club": "Atalanta"
+            },
+            {
+                "name": "Evan Ndicka",
+                "club": "AS Roma"
+            },
+            {
+                "name": "Christopher Operi",
+                "club": "Istanbul Basaksehir"
+            },
+            {
+                "name": "Armel Zohouri",
+                "club": "FC Iberia"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Seko Fofana",
+                "club": "Rennes"
+            },
+            {
+                "name": "Jean-Philippe Gbamin",
+                "club": "FC Metz"
+            },
+            {
+                "name": "Christ Inao Oulai",
+                "club": "Trabzonspor"
+            },
+            {
+                "name": "Franck Kessie",
+                "club": "Al-Ahli"
+            },
+            {
+                "name": "Ibrahim Sangare",
+                "club": "Nottingham Forest"
+            },
+            {
+                "name": "Jean-Michael Seri",
+                "club": "NK Maribor"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Vakoun Bayo",
+                "club": "Udinese"
+            },
+            {
+                "name": "Oumar Diakite",
+                "club": "Cercle Brugge"
+            },
+            {
+                "name": "Amad Diallo",
+                "club": "Manchester United"
+            },
+            {
+                "name": "Yan Diomande",
+                "club": "RB Leipzig"
+            },
+            {
+                "name": "Sebastien Haller",
+                "club": "FC Utrecht"
+            },
+            {
+                "name": "Jean-Philippe Krasso",
+                "club": "Paris FC"
+            },
+            {
+                "name": "Bazoumana Toure",
+                "club": "Hoffenheim"
+            },
+            {
+                "name": "Wilfried Zaha",
+                "club": "Charlotte"
+            }
+        ]
+    }
+}

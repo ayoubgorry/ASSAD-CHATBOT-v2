@@ -1,0 +1,125 @@
+{
+    "team": "Cameroon",
+    "squad": {
+        "goalkeepers": [
+            {
+                "name": "Devis Epassy",
+                "club": "Dinamo Bucharest"
+            },
+            {
+                "name": "Simon Omossola",
+                "club": "Saint-Éloi Lupopo"
+            },
+            {
+                "name": "Simon Ngapandouetnbu",
+                "club": "Montpellier"
+            },
+            {
+                "name": "Edouard Sombang",
+                "club": "Colombe Sport"
+            }
+        ],
+        "defenders": [
+            {
+                "name": "Samuel Kotto",
+                "club": "La Gantoise"
+            },
+            {
+                "name": "Gerzino Nyamsi",
+                "club": "Lokomotiv Moscow"
+            },
+            {
+                "name": "Jean-Charles Castelletto",
+                "club": "Al-Duhail"
+            },
+            {
+                "name": "Nouhou Tolo",
+                "club": "Seattle Sounders"
+            },
+            {
+                "name": "Flavien Enzo Boyomo",
+                "club": "Osasuna"
+            },
+            {
+                "name": "Mahamadou Nagida",
+                "club": "Rennes"
+            },
+            {
+                "name": "Christopher Wooh",
+                "club": "Spartak Moscow"
+            },
+            {
+                "name": "Junior Tchamadeu",
+                "club": "Stoke City"
+            },
+            {
+                "name": "Darlin Yongwa",
+                "club": "Lorient"
+            }
+        ],
+        "midfielders": [
+            {
+                "name": "Martin Ndzie",
+                "club": "Rapid Vienna"
+            },
+            {
+                "name": "Carlos Baleba",
+                "club": "Brighton"
+            },
+            {
+                "name": "Arthur Avom",
+                "club": "Lorient"
+            },
+            {
+                "name": "Eric-Junior Dina Ebimbe",
+                "club": "Brest"
+            },
+            {
+                "name": "Brice Ambina",
+                "club": "Valerenga"
+            },
+            {
+                "name": "Jean Junior Onana",
+                "club": "Genoa"
+            },
+            {
+                "name": "Olivier Kemen",
+                "club": "Istanbul Basaksehir"
+            }
+        ],
+        "forwards": [
+            {
+                "name": "Bryan Mbeumo",
+                "club": "Manchester United"
+            },
+            {
+                "name": "Christian Bassogog",
+                "club": "Al Okhdood"
+            },
+            {
+                "name": "Georges-Kevin N'Koudou",
+                "club": "Al-Diraiyah"
+            },
+            {
+                "name": "Danny Namaso",
+                "club": "Auxerre"
+            },
+            {
+                "name": "Frank Magri",
+                "club": "Toulouse"
+            },
+            {
+                "name": "Karl Etta Eyong",
+                "club": "N/C"
+            },
+            {
+                "name": "Christian Kofane",
+                "club": "Bayer Leverkusen"
+            },
+            {
+                "name": "Patrick Soko",
+                "club": "Almeria"
+            }
+        ]
+    }
+}

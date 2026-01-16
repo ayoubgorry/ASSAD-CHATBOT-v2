@@ -1,0 +1,64 @@
+{
+    "phase": "Phase de groupes",
+    "etape": "Groupe B",
+    "match_n": "Match 16",
+    "date": "26 décembre 2025 13h30",
+    "equipe_domicile": "Angola",
+    "score": "1 - 1",
+    "equipe_exterieur": "Zimbabwe",
+    "stade": "Stade de Marrakech,Marrakech",
+    "buteurs_domicile": [
+        {
+            "joueur": "Dala",
+            "minute": "24",
+            "type": "normal",
+            "passe_decisive": "Show"
+        }
+    ],
+    "buteurs_exterieur": [
+        {
+            "joueur": "Musona",
+            "minute": "45+6",
+            "type": "normal",
+            "passe_decisive": null
+        }
+    ],
+    "cartons_domicile": [
+        {
+            "joueur": "Show",
+            "minute": "4",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Luvumbo",
+            "minute": "76",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Maestro",
+            "minute": "83",
+            "type": "jaune"
+        }
+    ],
+    "cartons_exterieur": [
+        {
+            "joueur": "e Lunga",
+            "minute": "49",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Dube",
+            "minute": "61",
+            "type": "jaune"
+        },
+        {
+            "joueur": "Fabisch",
+            "minute": "82",
+            "type": "jaune"
+        }
+    ],
+    "affluence": "5 110",
+    "arbitre": "Peter Waweru Kamaku",
+    "status": "played",
+    "last_update": "15/01/2026 19:27:04"
+}
